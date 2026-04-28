@@ -1,0 +1,22 @@
+<svg viewBox="0 0 780 240" height="240" width="780" xmlns="http://www.w3.org/2000/svg">
+  <circle opacity="0.09" fill="#00FF9F" r="95" cy="120" cx="390"></circle>
+  
+  
+  <path stroke-opacity="0.95" stroke-width="7" stroke="#00FF9F" fill="none" d="M0 120 Q195 45 390 120 Q585 195 780 120">
+    
+  </path>
+  
+  
+  <path stroke-opacity="0.75" stroke-width="5" stroke="#1ED760" fill="none" d="M0 120 Q195 75 390 120 Q585 165 780 120">
+    
+  </path>
+  
+  
+  <path stroke-opacity="0.5" stroke-width="3.5" stroke="#00FF9F" fill="none" d="M0 120 Q195 105 390 120 Q585 135 780 120">
+    
+  </path>
+  
+  <text opacity="0.98" text-anchor="middle" fill="#ffffff" font-weight="700" font-size="46" font-family="monospace" y="112" x="390">RESONANCE</text>
+  <text opacity="0.98" text-anchor="middle" fill="#00FF9F" font-weight="700" font-size="46" font-family="monospace" y="155" x="390">ARCHITECT</text>
+  <text opacity="0.9" text-anchor="middle" fill="#1ED760" font-size="19" font-family="monospace" y="195" x="390">MICHAELWAVE369 • PHI369 LABS • @mictekmusicc</text>
+</svg>
