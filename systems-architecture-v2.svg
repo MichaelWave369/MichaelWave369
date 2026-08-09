@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">MichaelWave369 systems architecture</title>
+  <desc id="desc">Layered architecture from infrastructure through runtimes, governance, computational collaborators and human judgment, grounded in reality.</desc>
+  <rect width="1200" height="760" rx="24" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="758" rx="23" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <text x="600" y="58" text-anchor="middle" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="27" font-weight="700">THE SYSTEM IS LAYERED. THE HUMAN REMAINS IN THE LOOP.</text>
+  <text x="600" y="88" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">infrastructure → runtime → governance → collaboration → judgment</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="150" y="125" width="900" height="92" rx="14" fill="#161b22" stroke="#d6b45a" stroke-width="2"/>
+    <text x="190" y="162" fill="#d6b45a" font-size="20" font-weight="700">01 // HUMAN</text>
+    <text x="190" y="193" fill="#f0f6fc" font-size="18">judgment • creativity • agency • responsibility • release authority</text>
+
+    <path d="M600 217 L600 238" stroke="#2fbf8f" stroke-width="3"/><path d="M592 230 L600 240 L608 230" fill="#2fbf8f"/>
+
+    <rect x="150" y="242" width="900" height="92" rx="14" fill="#161b22" stroke="#2fbf8f" stroke-width="2"/>
+    <text x="190" y="279" fill="#2fbf8f" font-size="20" font-weight="700">02 // COMPUTATIONAL COLLABORATORS</text>
+    <text x="190" y="310" fill="#f0f6fc" font-size="18">reasoning • memory • tools • simulation • synthesis • collaborative swarms</text>
+
+    <path d="M600 334 L600 355" stroke="#2fbf8f" stroke-width="3"/><path d="M592 347 L600 357 L608 347" fill="#2fbf8f"/>
+
+    <rect x="150" y="359" width="900" height="92" rx="14" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+    <text x="190" y="396" fill="#58a6ff" font-size="20" font-weight="700">03 // PARALLAX + GOVERNANCE</text>
+    <text x="190" y="427" fill="#f0f6fc" font-size="18">evidence • provenance • dissent • receipts • claim boundaries • promotion gates</text>
+
+    <path d="M600 451 L600 472" stroke="#2fbf8f" stroke-width="3"/><path d="M592 464 L600 474 L608 464" fill="#2fbf8f"/>
+
+    <rect x="150" y="476" width="900" height="92" rx="14" fill="#161b22" stroke="#a371f7" stroke-width="2"/>
+    <text x="190" y="513" fill="#a371f7" font-size="20" font-weight="700">04 // SYSTEM RUNTIMES</text>
+    <text x="190" y="544" fill="#f0f6fc" font-size="18">orchestration • local models • workflows • deterministic transforms • interfaces</text>
+
+    <path d="M600 568 L600 589" stroke="#2fbf8f" stroke-width="3"/><path d="M592 581 L600 591 L608 581" fill="#2fbf8f"/>
+
+    <rect x="150" y="593" width="900" height="92" rx="14" fill="#161b22" stroke="#f0883e" stroke-width="2"/>
+    <text x="190" y="630" fill="#f0883e" font-size="20" font-weight="700">05 // INFRASTRUCTURE</text>
+    <text x="190" y="661" fill="#f0f6fc" font-size="18">networks • compute • datacenters • signals • telemetry • physical systems</text>
+  </g>
+
+  <line x1="150" y1="712" x2="1050" y2="712" stroke="#30363d"/>
+  <text x="600" y="742" text-anchor="middle" fill="#d6b45a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">REALITY ← OBSERVE • TEST • CORRECT • RELEASE → REALITY</text>
+</svg>
