@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Michael W. Hughes — MichaelWave369</title>
+  <desc id="desc">Systems Architect, Computational Collaborator Builder, Network Infrastructure, Experimental Computing</desc>
+  <rect width="1200" height="430" rx="26" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="428" rx="25" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <g opacity="0.22" stroke="#2fbf8f" fill="none">
+    <path d="M0 344 C150 276 250 410 400 342 S650 278 800 342 S1050 404 1200 338" stroke-width="3"/>
+    <path d="M0 365 C150 320 270 402 420 360 S670 316 820 360 S1050 397 1200 356" stroke-width="2"/>
+  </g>
+
+  <g opacity="0.16" fill="#d6b45a">
+    <rect x="930" y="64" width="12" height="12"/><rect x="952" y="64" width="12" height="12"/>
+    <rect x="974" y="64" width="12" height="12"/><rect x="996" y="64" width="12" height="12"/>
+    <rect x="952" y="86" width="12" height="12"/><rect x="974" y="86" width="12" height="12"/>
+    <rect x="930" y="108" width="12" height="12"/><rect x="952" y="108" width="12" height="12"/>
+    <rect x="974" y="108" width="12" height="12"/><rect x="996" y="108" width="12" height="12"/>
+  </g>
+
+  <text x="70" y="88" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" letter-spacing="4">MICHAELWAVE369 // PROFILE ARCHITECTURE v2</text>
+  <text x="70" y="165" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="54" font-weight="700">MICHAEL W. HUGHES</text>
+  <text x="72" y="213" fill="#2fbf8f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="27" font-weight="700">SYSTEMS ARCHITECT • COMPUTATIONAL COLLABORATORS</text>
+  <text x="72" y="252" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">NETWORK INFRASTRUCTURE • EXPERIMENTAL COMPUTING • CREATIVE TECHNOLOGY</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">
+    <rect x="70" y="292" width="175" height="42" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="157" y="319" text-anchor="middle" fill="#f0f6fc">PACKETS</text>
+    <text x="262" y="319" fill="#2fbf8f">→</text>
+    <rect x="290" y="292" width="175" height="42" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="377" y="319" text-anchor="middle" fill="#f0f6fc">SYSTEMS</text>
+    <text x="482" y="319" fill="#2fbf8f">→</text>
+    <rect x="510" y="292" width="245" height="42" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="632" y="319" text-anchor="middle" fill="#f0f6fc">COLLABORATORS</text>
+    <text x="772" y="319" fill="#2fbf8f">→</text>
+    <rect x="800" y="292" width="235" height="42" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="917" y="319" text-anchor="middle" fill="#f0f6fc">CIVILIZATIONS</text>
+  </g>
+
+  <line x1="70" y1="374" x2="1130" y2="374" stroke="#30363d"/>
+  <text x="70" y="404" fill="#d6b45a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700">REALITY IS THE CUSTOMER.</text>
+  <text x="1130" y="404" text-anchor="end" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">GOOD CODE • GOOD VIBES • BETTER WORLD</text>
+</svg>
