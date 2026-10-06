@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">MichaelWave369 — Enter the Field</title>
+  <desc id="desc">Michael Mikey Hughes. Systems architecture, network infrastructure, computational collaboration, experimental computing, research, creative tools, and playable worlds.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f14"/>
+      <stop offset="1" stop-color="#101820"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d7ad" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#39d7ad" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#d9b65d" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#26313b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="468" rx="27" fill="none" stroke="#303b45" stroke-width="2"/>
+  <rect width="1200" height="470" rx="28" fill="url(#grid)" opacity=".18"/>
+
+  <g opacity=".55" fill="none" stroke="#39d7ad">
+    <circle cx="1035" cy="118" r="82" stroke-width="1.5"/>
+    <circle cx="1035" cy="118" r="50" stroke-width="1"/>
+    <circle cx="1035" cy="118" r="18" stroke-width="2"/>
+    <path d="M953 118h164M1035 36v164" opacity=".4"/>
+  </g>
+  <g fill="#d9b65d" opacity=".85">
+    <circle cx="1035" cy="36" r="4"/>
+    <circle cx="1117" cy="118" r="4"/>
+    <circle cx="1035" cy="200" r="4"/>
+    <circle cx="953" cy="118" r="4"/>
+  </g>
+
+  <text x="68" y="72" fill="#8ea0ad" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="4">MICHAELWAVE369 // PROFILE ARCHITECTURE v3</text>
+  <text x="68" y="145" fill="#f4f7f9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="53" font-weight="700">MICHAEL “MIKEY” HUGHES</text>
+  <text x="70" y="193" fill="#39d7ad" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="28" font-weight="700">ENTER THE FIELD</text>
+  <text x="70" y="232" fill="#c7d1d8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20">SYSTEMS • NETWORKS • COMPUTATIONAL COLLABORATION • EXPERIMENTAL COMPUTING</text>
+
+  <line x1="70" y1="270" x2="1130" y2="270" stroke="url(#line)" stroke-width="2"/>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700">
+    <rect x="70" y="302" width="225" height="48" rx="10" fill="#121b22" stroke="#30404b"/>
+    <text x="182.5" y="332" text-anchor="middle" fill="#f4f7f9">SYSTEMS</text>
+
+    <rect x="325" y="302" width="225" height="48" rx="10" fill="#121b22" stroke="#30404b"/>
+    <text x="437.5" y="332" text-anchor="middle" fill="#f4f7f9">RESEARCH</text>
+
+    <rect x="580" y="302" width="225" height="48" rx="10" fill="#121b22" stroke="#30404b"/>
+    <text x="692.5" y="332" text-anchor="middle" fill="#f4f7f9">CREATE</text>
+
+    <rect x="835" y="302" width="225" height="48" rx="10" fill="#121b22" stroke="#30404b"/>
+    <text x="947.5" y="332" text-anchor="middle" fill="#f4f7f9">PLAY</text>
+  </g>
+
+  <text x="70" y="405" fill="#d9b65d" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21" font-weight="700">REALITY IS THE CUSTOMER.</text>
+  <text x="1130" y="405" text-anchor="end" fill="#8ea0ad" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">GOOD CODE • GOOD VIBES • BETTER WORLD</text>
+  <text x="70" y="436" fill="#687985" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">BUILD USEFUL THINGS // KEEP THE EVIDENCE ATTACHED // LEAVE ROOM FOR WONDER</text>
+</svg>
