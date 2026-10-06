@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">The Field — ecosystem map</title>
+  <desc id="desc">Conceptual map connecting physical infrastructure, compute, human intent, PhiOS, memory, governance, computational collaborators, Infinite Porch, research, creative tools, playable worlds, and reality feedback.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1015"/>
+      <stop offset="1" stop-color="#111a21"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L10 5L0 10Z" fill="#4b6873"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="760" rx="28" fill="url(#bg2)"/>
+  <rect x="1" y="1" width="1198" height="758" rx="27" fill="none" stroke="#303b45" stroke-width="2"/>
+
+  <text x="60" y="62" fill="#8ea0ad" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" letter-spacing="4">THE FIELD // CONCEPTUAL ECOSYSTEM MAP</text>
+  <text x="60" y="103" fill="#f4f7f9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="31" font-weight="700">FROM SIGNALS AND INTENT TO INSPECTABLE SYSTEMS</text>
+
+  <g stroke="#4b6873" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <path d="M230 188 C230 235 430 230 520 280"/>
+    <path d="M600 188V270"/>
+    <path d="M970 188 C970 235 770 230 680 280"/>
+    <path d="M600 340V395"/>
+    <path d="M600 455V505"/>
+    <path d="M600 565V620"/>
+    <path d="M600 340 C600 365 300 360 250 395"/>
+    <path d="M600 340 C600 365 900 360 950 395"/>
+    <path d="M600 565 C600 595 270 585 220 620"/>
+    <path d="M600 565V620"/>
+    <path d="M600 565 C600 595 930 585 980 620"/>
+  </g>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <g font-size="15" font-weight="700">
+      <rect x="100" y="140" width="260" height="48" rx="10" fill="#131d24" stroke="#30404b"/>
+      <text x="230" y="170" text-anchor="middle" fill="#d9e1e6">PHYSICAL INFRASTRUCTURE</text>
+
+      <rect x="470" y="140" width="260" height="48" rx="10" fill="#131d24" stroke="#30404b"/>
+      <text x="600" y="170" text-anchor="middle" fill="#d9e1e6">COMPUTE + MODELS</text>
+
+      <rect x="840" y="140" width="260" height="48" rx="10" fill="#131d24" stroke="#30404b"/>
+      <text x="970" y="170" text-anchor="middle" fill="#d9e1e6">HUMAN INTENT</text>
+    </g>
+
+    <rect x="450" y="280" width="300" height="60" rx="12" fill="#10251f" stroke="#39d7ad" stroke-width="2"/>
+    <text x="600" y="317" text-anchor="middle" fill="#39d7ad" font-size="23" font-weight="700">PhiOS</text>
+
+    <g font-size="15" font-weight="700">
+      <rect x="105" y="395" width="290" height="60" rx="12" fill="#131d24" stroke="#30404b"/>
+      <text x="250" y="421" text-anchor="middle" fill="#f4f7f9">MEMORY + STATE</text>
+      <text x="250" y="442" text-anchor="middle" fill="#8093a0" font-size="13">NBG • ledgers • provenance</text>
+
+      <rect x="455" y="395" width="290" height="60" rx="12" fill="#131d24" stroke="#d9b65d"/>
+      <text x="600" y="421" text-anchor="middle" fill="#f4f7f9">GOVERNANCE</text>
+      <text x="600" y="442" text-anchor="middle" fill="#8093a0" font-size="13">receipts • gates • claim bounds</text>
+
+      <rect x="805" y="395" width="290" height="60" rx="12" fill="#131d24" stroke="#30404b"/>
+      <text x="950" y="421" text-anchor="middle" fill="#f4f7f9">COLLABORATORS</text>
+      <text x="950" y="442" text-anchor="middle" fill="#8093a0" font-size="13">Vessels • tools • synthesis</text>
+    </g>
+
+    <rect x="425" y="505" width="350" height="60" rx="12" fill="#171f2a" stroke="#78a9d6" stroke-width="2"/>
+    <text x="600" y="542" text-anchor="middle" fill="#b7d8f3" font-size="22" font-weight="700">INFINITE PORCH</text>
+
+    <g font-size="15" font-weight="700">
+      <rect x="80" y="620" width="280" height="76" rx="12" fill="#131d24" stroke="#30404b"/>
+      <text x="220" y="648" text-anchor="middle" fill="#f4f7f9">RESEARCH</text>
+      <text x="220" y="672" text-anchor="middle" fill="#8093a0" font-size="13">NBG • Altermath • DCF • OR1</text>
+
+      <rect x="460" y="620" width="280" height="76" rx="12" fill="#131d24" stroke="#30404b"/>
+      <text x="600" y="648" text-anchor="middle" fill="#f4f7f9">CREATIVE TOOLS</text>
+      <text x="600" y="672" text-anchor="middle" fill="#8093a0" font-size="13">Domistika • Auralith • WaveForge</text>
+
+      <rect x="840" y="620" width="280" height="76" rx="12" fill="#131d24" stroke="#30404b"/>
+      <text x="980" y="648" text-anchor="middle" fill="#f4f7f9">PLAYABLE WORLDS</text>
+      <text x="980" y="672" text-anchor="middle" fill="#8093a0" font-size="13">Spark • PhiCade • HomeBass</text>
+    </g>
+  </g>
+
+  <path d="M1120 658 C1160 658 1160 728 600 728 C40 728 40 312 440 312" fill="none" stroke="#d9b65d" stroke-width="2" stroke-dasharray="8 8" opacity=".72" marker-end="url(#arrow)"/>
+  <text x="600" y="736" text-anchor="middle" fill="#d9b65d" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700">WORLD FEEDBACK → OBSERVE → TEST → REVISE ↺</text>
+</svg>
