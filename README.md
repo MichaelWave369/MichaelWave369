@@ -1,84 +1,77 @@
 <div align="center">
 
-<img src="./profile-hero-v2.svg" width="100%" alt="Michael W. Hughes — Systems Architect, Computational Collaborator Builder, Network Infrastructure, Experimental Computing" />
+<img src="./profile-hero-v3.svg" width="100%" alt="Michael Mikey Hughes — Enter the Field" />
 
-### Builder of inspectable systems for humans, machines, and the messy reality between them.
+### Builder of inspectable systems for humans, machines, networks, research, and the messy reality between them.
 
-`NETWORKS` · `LOCAL-FIRST AI` · `COMPUTATIONAL COLLABORATORS` · `GOVERNANCE` · `SIMULATION` · `CREATIVE COMPUTING`
+`NETWORKS` · `LOCAL-FIRST COMPUTING` · `COMPUTATIONAL COLLABORATION` · `GOVERNANCE` · `RESEARCH` · `CREATIVE COMPUTING`
 
 </div>
 
 ---
 
-## Hello — I'm Michael "Mikey" Hughes
+## Enter the Field
 
-I'm a **network infrastructure specialist, systems builder, and experimental computing architect** working across the boundary between physical infrastructure and computational systems.
+I'm **Michael "Mikey" Hughes** — a network infrastructure specialist, systems builder, and experimental computing architect.
 
-I started close to the wire: devices, networks, field failures, signal paths, hardware, people, and the practical reality that systems either work or they do not.
+I started close to the wire: devices, networks, signal paths, hardware, field failures, and the practical reality that a system eventually has to meet the world.
 
-That perspective now carries into the software I build.
+That perspective now carries into the software, research environments, creative tools, and computational collaborators I build.
 
-I explore how humans and **Computational Collaborators (CCs)** can reason, build, simulate, verify, remember, and create together without hiding uncertainty or handing authority to a black box.
+The common question is simple:
 
-> **How do we build increasingly powerful computational systems without losing evidence, agency, understandability, creativity, or the human being at the center of them?**
+> **How do we make increasingly capable computational systems without losing evidence, agency, provenance, curiosity, or the human being at the center?**
 
-That question connects most of the strange-looking repositories on this page.
+This GitHub is the workshop.
 
----
+### Choose an entry point
 
-## What I actually build
-
-| Domain | What lives there |
-|---|---|
-| **Infrastructure & Physical Systems** | Networks, datacenter intelligence, telemetry, signal paths, observability, field systems, public-data infrastructure tooling |
-| **Computational Collaborators** | Local models, agent/tool orchestration, memory, collaborative reasoning, multi-model workflows, human-in-the-loop architectures |
-| **Governance & Verifiable Computing** | Evidence, provenance, receipts, lineage, claim boundaries, deterministic validation, adversarial review, release gates |
-| **Simulation & Experimental Systems** | Research workbenches, alternate representations, model crucibles, scenario environments, falsifiable prototypes |
-| **Creative Computing** | Visual workstations, interactive worlds, retro interfaces, music/game experiments, posters, pixel environments, playful developer tools |
-
-The creative work is not separate from the engineering. It is how I make complex systems **legible, inviting, and worth exploring**.
+| **SYSTEMS** | **RESEARCH** | **CREATE** | **PLAY** |
+|---|---|---|---|
+| [PhiOS](https://github.com/MichaelWave369/PhiOS) | [Nested Bubble Gear](https://github.com/MichaelWave369/NestedBubbleGear) | [Domistika](https://github.com/MichaelWave369/Domistika) | [PhiCade](https://github.com/MichaelWave369/PhiCade) |
+| [Infinite Porch](https://github.com/MichaelWave369/Infinite-Porch) | [Governance Drift / RSDC](https://github.com/MichaelWave369/governance-drift-rsdc) | [Auralith369](https://github.com/MichaelWave369/Auralith369) | [HomeBass](https://github.com/MichaelWave369/HomeBass) |
+| [Super Φ.Vessel](https://github.com/MichaelWave369/SuperPhiVessel) | [Φ369 Research Lab](https://zenodo.org/communities/enter-the-field-phi369/records) | [WaveForge Studio](https://github.com/MichaelWave369/WaveForgeStudio) | [JukeBot](https://github.com/MichaelWave369/JukeBot) |
+| [Commonline](https://github.com/MichaelWave369/Commonline) | Experimental protocols + negative controls | [ParaCut](https://github.com/MichaelWave369/paracut) | [Spark: The Substrate](https://spark-substrate.microneesia79.chatgpt.site/) |
 
 ---
 
-## The architecture behind the repos
+## What's alive now
+
+These are some of the projects that best represent the current Field.
+
+| Project | What it is exploring | State |
+|---|---|---|
+| **[PhiOS](https://github.com/MichaelWave369/PhiOS)** | A governed, local-first operator environment for tools, memory, interfaces, and computational collaboration | `ACTIVE BUILD` |
+| **[Infinite Porch](https://github.com/MichaelWave369/Infinite-Porch)** | A community compute / communication fabric for connecting people, machines, and local capability | `ACTIVE BUILD` |
+| **[Nested Bubble Gear](https://github.com/MichaelWave369/NestedBubbleGear)** | Experimental work on hidden microstructure, observable closure, memory, coarse representations, and recoverability | `RESEARCH` |
+| **[Super Φ.Vessel](https://github.com/MichaelWave369/SuperPhiVessel)** | A governed multi-model collaboration environment with explicit roles, routing, receipts, and human release authority | `ACTIVE LAB` |
+| **[PhiCade](https://github.com/MichaelWave369/PhiCade)** | Agent-native game / emulator runtime experiments where controllers may propose actions while the runtime retains authority | `ACTIVE BUILD` |
+| **[Spark: The Substrate](https://spark-substrate.microneesia79.chatgpt.site/)** | A growing playable world and systems laboratory, including synchronized multiplayer experiments | `PLAYABLE` |
+| **[Domistika](https://github.com/MichaelWave369/Domistika)** | An agent-accessible creative workstation for procedural drawing, motion, composition, and visual experimentation | `ACTIVE BUILD` |
+
+Not every repository is the same kind of artifact. Some are working software, some are research protocols, some are infrastructure, some are speculative architectures, and some are weird little worlds built because software is allowed to be fun.
+
+---
+
+## The Field map
 
 <div align="center">
 
-<img src="./systems-architecture-v2.svg" width="100%" alt="Layered architecture from infrastructure through runtimes, governance, computational collaborators and human judgment" />
+<img src="./field-map-v3.svg" width="100%" alt="Conceptual ecosystem map connecting infrastructure, compute, human intent, PhiOS, governance, memory, collaborators, Infinite Porch, research, creative tools, playable worlds, and reality feedback" />
 
 </div>
 
-The stack is intentionally layered:
+This is a conceptual map, not a claim that every project already implements every layer.
 
-**Infrastructure gives us signals. Runtimes transform them. Governance keeps claims bounded. Computational collaborators help reason over them. Humans retain judgment and release authority.**
+The architecture keeps showing up in different forms:
 
-And the entire loop answers to the same thing:
+**signals + human intent → governed computation → inspectable state → collaboration → artifacts → world feedback**
 
-> ### Reality is the customer.
-
----
-
-## Selected public systems
-
-These are useful entry points into the larger body of work.
-
-| System | What it explores |
-|---|---|
-| **[DataCenterLedger Explorer](https://github.com/MichaelWave369/datacenter-ledger-explorer)** | Local-first, public-data, receipt-backed infrastructure registry and review tooling |
-| **[Parallax Watchtower](https://github.com/MichaelWave369/parallax-watchtower)** | Public-signal situational awareness with visible confidence, privacy boundaries, and source receipts |
-| **[Governance Drift / RSDC](https://github.com/MichaelWave369/governance-drift-rsdc)** | Claim-disciplined research framework for detecting governance drift in AI-assisted workflows |
-| **[Flow Covenant Runtime](https://github.com/MichaelWave369/flow-covenant-runtime)** | Local-first decision/governance workbench with explicit claim-safe boundaries |
-| **[PhiOS](https://github.com/MichaelWave369/PhiOS)** | Experimental sovereign/local-first operator shell and runtime interface architecture |
-| **[PhiOffice369](https://github.com/MichaelWave369/phioffice369)** | Local-first AI-assisted productivity-suite experiment for living artifacts |
-| **[PHI369 Element Spiral Atlas](https://github.com/MichaelWave369/phi369-element-spiral-atlas)** | Experimental scientific visualization interface for comparing alternate periodic-table projections against known data |
-| **[Auralith369](https://github.com/MichaelWave369/Auralith369)** | Local-first visual workstation with project manifests and auditable creative receipts |
-| **[FrontPorchAI](https://github.com/MichaelWave369/FrontPorchAI)** | Plainspoken AI literacy for families: useful without fear, hype, or blind trust |
-
-Not every project is the same kind of artifact. Some are working software, some are research frameworks, some are experimental interfaces, and some are speculative architectures meant to generate **testable questions rather than automatic conclusions**.
+The loop matters more than the logo.
 
 ---
 
-## Parallax engineering principles
+## Field principles
 
 ```text
 REALITY IS THE CUSTOMER.
@@ -89,6 +82,8 @@ Provenance          > authority
 Multiple hypotheses > premature certainty
 Human agency        > automated authority
 Local capability    > unnecessary dependency
+
+CAPABILITY ≠ AUTHORITY.
 
 Governance should constrain claims, not curiosity.
 Speculation is welcome when it remains labeled speculation.
@@ -106,15 +101,49 @@ A useful system should be able to say not only **what it thinks**, but also:
 
 ---
 
+## Research
+
+A large part of the Field is experimental rather than product-oriented.
+
+Current lines include **Nested Bubble Gear (NBG)**, **Dynamic Causal Foam (DCF)**, **Altermath**, governance / closure experiments, memory and recoverability studies, and formal protocol work.
+
+The research style is intentionally evidence-bounded:
+
+```text
+question
+  ↓
+observable definition
+  ↓
+protocol
+  ↓
+positive / negative controls
+  ↓
+run
+  ↓
+receipt
+  ↓
+failure analysis
+  ↓
+revision or promotion
+```
+
+Where possible, experiments keep frozen protocols, explicit thresholds, negative controls, replay artifacts, and clear distinctions between observation and interpretation.
+
+**Research archive:** [Enter the Field | Φ369 Research Lab on Zenodo](https://zenodo.org/communities/enter-the-field-phi369/records)
+
+A failed closure test is useful evidence.
+
+A beautiful theory does not get diplomatic immunity.
+
+---
+
 ## Computational Collaborators
 
-I use **Computational Collaborator** instead of treating every useful model as an autonomous "agent."
+I use **Computational Collaborator** for systems that contribute reasoning, critique, memory, synthesis, code, simulation, perception, or tools while remaining inside an explicit relationship with human judgment and system governance.
 
-A collaborator can contribute reasoning, memory, synthesis, simulation, code, critique, or tools while remaining inside an explicit relationship with human judgment and system governance.
+The goal is not autonomy for its own sake.
 
-The interesting problem is not simply making AI *more autonomous*.
-
-It is making collaboration **more capable without becoming less inspectable**.
+It is **more capability without less inspectability**.
 
 ```text
 Human intent
@@ -125,7 +154,7 @@ Evidence / tools / simulation
     ↓
 Receipt + provenance
     ↓
-Adversarial / parallax review
+Parallax / adversarial review
     ↓
 Human release
     ↓
@@ -135,74 +164,31 @@ World feedback
 
 ---
 
-## The laboratory
+## Creative computing
 
-My current experiments tend to cluster around:
+The creative systems are not a side quest.
 
-```text
-COMPUTATIONAL COLLABORATION
-├── reasoning
-├── memory
-├── local models
-├── tool use
-├── multi-model swarms
-└── governed autonomy
+They are where interface design, agent tooling, procedural systems, audio, visual language, games, and human-computer collaboration get stress-tested in forms people actually want to touch.
 
-PARALLAX / GOVERNANCE
-├── evidence
-├── provenance
-├── falsification
-├── perception
-├── dissent
-└── deterministic receipts
-
-SIMULATION + MEASUREMENT
-├── scenario environments
-├── alternate representations
-├── model comparison
-├── research workbenches
-└── falsifiable experimental architectures
-
-INFRASTRUCTURE
-├── networks
-├── datacenters
-├── compute
-├── telemetry
-└── physical-world signals
-
-CREATIVE COMPUTING
-├── interactive worlds
-├── visual systems
-├── music + games
-├── retro interfaces
-└── weird little pixel dudes
-```
-
-That last branch is important. 😄
-
----
-
-## Yes, the magical pixel guy still lives here
+| Tool / world | Focus |
+|---|---|
+| **[Domistika](https://github.com/MichaelWave369/Domistika)** | Procedural drawing, motion, symmetry, composition, agent-accessible visual tools |
+| **[Auralith369](https://github.com/MichaelWave369/Auralith369)** | Image treatment, LUT / FX workflows, manifests, capture receipts |
+| **[WaveForge Studio](https://github.com/MichaelWave369/WaveForgeStudio)** | Audio and creative-tool experimentation |
+| **[ParaCut](https://github.com/MichaelWave369/paracut)** | Video / editing workflow experiments |
+| **[PhiCade](https://github.com/MichaelWave369/PhiCade)** | Governed game and emulator architecture |
+| **[HomeBass](https://github.com/MichaelWave369/HomeBass)** | Retro social-world / commons experiments |
+| **[JukeBot](https://github.com/MichaelWave369/JukeBot)** | Jukebox, playlist, and music-interface experiments |
 
 <div align="center">
 
-<img src="./byte_vibes_lab_legend_animated.gif" width="340" alt="BYTE VIBES: LAB LEGEND animated pixel art" />
+<img src="./byte_vibes_lab_legend_animated.gif" width="310" alt="BYTE VIBES: LAB LEGEND animated pixel art" />
 
-### The Wave Rider is the creative signature — not the limit of the work.
+### The Wave Rider still lives here.
+
+The systems got deeper. The magic stayed.
 
 </div>
-
-I still love strange worlds, glowing consoles, pixel laboratories, impossible machines, games, music, and interfaces that make technology feel alive.
-
-The difference now is that the worlds sit **on top of an architecture**.
-
-```text
-Packets → Systems → Collaborators → Simulations → Worlds
-```
-
-The magic stayed.
-
-The systems underneath it got much deeper.
 
 ---
 
@@ -217,7 +203,7 @@ Separate evidence from hypothesis
       ↓
 Model the system
       ↓
-Write the contract / spec
+Write the contract / protocol
       ↓
 Build the smallest useful instrument
       ↓
@@ -237,23 +223,64 @@ I like software that leaves a trail another person can inspect.
 
 ---
 
+## From packets to worlds
+
+My background is in **network infrastructure and field systems**.
+
+That means I tend to see software less as a pile of screens and more as a chain of relationships:
+
+```text
+PACKETS
+  ↓
+SYSTEMS
+  ↓
+COMPUTE
+  ↓
+MEMORY
+  ↓
+COLLABORATORS
+  ↓
+TOOLS
+  ↓
+WORLDS
+  ↓
+PEOPLE
+  ↓
+REALITY
+  ↺
+```
+
+That's why a networking tool, an experimental memory architecture, a governed AI runtime, a pixel-art world, and a music workstation can all belong in the same laboratory.
+
+They are different instruments pointed at the same problem:
+
+> **How do humans and computation build together without losing track of what is real?**
+
+---
+
 ## Tools I reach for
 
-**Software:** TypeScript, JavaScript, React, Vite, Next.js, Electron, Expo, Python  
+**Software:** TypeScript, JavaScript, React, Vite, Next.js, Electron, Expo, Python, Rust  
 **AI / Compute:** local models, Ollama, multi-model orchestration, structured outputs, tool-driven workflows  
-**Systems:** networking, field infrastructure, telemetry, datacenter research, local-first storage  
-**Governance:** JSON schemas, deterministic transforms, provenance, receipts, review gates, GitHub-based release workflows  
-**Creative:** visual interfaces, pixel art, interactive environments, audio/music systems, experimental UI
+**Systems:** networking, field infrastructure, telemetry, local-first storage, distributed / peer experiments  
+**Governance:** JSON schemas, deterministic transforms, provenance, receipts, review gates, GitHub-based qualification  
+**Creative:** visual interfaces, pixel worlds, procedural art, audio / music systems, experimental UI
 
-I care less about collecting technologies than about choosing the smallest stack that can make a system **understandable and useful**.
+The stack changes.
+
+The requirement that the system remain understandable does not.
 
 ---
 
 ## Names you'll see around here
 
-**PHI369 Labs** — my experimental workshop and build language.  
-**Parallax** — the broader pattern for looking at systems from multiple viewpoints while keeping evidence and uncertainty visible.  
-**Wave Rider / MichaelWave369** — the creative signature that ties the technical and artistic work together.
+**Enter the Field** — the wider doorway connecting the projects, research, people, and experiments.
+
+**PHI369 Labs** — the experimental workshop / build language.
+
+**Parallax** — a pattern for looking at systems from multiple viewpoints while keeping evidence, dissent, provenance, and uncertainty visible.
+
+**Wave Rider / MichaelWave369** — the creative signature tying the technical and artistic work together.
 
 The names can be playful.
 
@@ -265,11 +292,11 @@ The claim boundaries should not be.
 
 I'm especially interested in the intersection of:
 
-**computational collaborators × local-first computing × provenance × simulation × network/datacenter infrastructure × human agency**
+**computational collaboration × local-first computing × memory × provenance × simulation × network infrastructure × creative tools × human agency**
 
-The long-term goal is not one giant application.
+The long-term direction is not one giant application.
 
-It is a family of interoperable instruments that help people **see systems more clearly, collaborate with computation more safely, and build things that can explain how they got there**.
+It is a family of interoperable instruments that help people **see systems more clearly, collaborate with computation more safely, preserve evidence, create strange useful things, and understand how the result got there**.
 
 ---
 
@@ -277,8 +304,12 @@ It is a family of interoperable instruments that help people **see systems more 
 
 ### Build useful things. Keep the evidence attached. Leave room for wonder.
 
+**REALITY IS THE CUSTOMER.**
+
 `GOOD CODE • GOOD VIBES • BETTER WORLD`
 
-<sub>[Profile v1 archive](./archive/PROFILE_V1_2026-08-09.md) · MichaelWave369</sub>
+[Enter the Field](https://enterthefield.org) · [Research Lab](https://zenodo.org/communities/enter-the-field-phi369/records) · [GitHub](https://github.com/MichaelWave369)
+
+<sub>[Profile v2 archive](./archive/PROFILE_V2_2026-10-06.md) · [Profile v1 archive](./archive/PROFILE_V1_2026-08-09.md)</sub>
 
 </div>
