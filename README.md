@@ -308,7 +308,7 @@ It is a family of interoperable instruments that help people **see systems more 
 
 `GOOD CODE • GOOD VIBES • BETTER WORLD`
 
-[Enter the Field](https://enterthefield.org) · [Research Lab](https://zenodo.org/communities/enter-the-field-phi369/records) · [GitHub](https://github.com/MichaelWave369)
+[Field Index](./FIELD_INDEX.md) · [Enter the Field](https://enterthefield.org) · [Research Lab](https://zenodo.org/communities/enter-the-field-phi369/records) · [GitHub](https://github.com/MichaelWave369)
 
 <sub>[Profile v2 archive](./archive/PROFILE_V2_2026-10-06.md) · [Profile v1 archive](./archive/PROFILE_V1_2026-08-09.md)</sub>
 
