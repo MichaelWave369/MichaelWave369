@@ -1,0 +1,62 @@
+name: Refresh Field Index
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 14 * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Refresh public Field Index
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/refresh-field-index.mjs
+
+      - name: Validate Field Index
+        run: node scripts/validate-field-index.mjs
+
+      - name: Detect index changes
+        id: drift
+        shell: bash
+        run: |
+          if git diff --quiet -- FIELD_INDEX.md data/repo-index.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open or update refresh pull request
+        if: steps.drift.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          branch="bot/field-index-refresh"
+          git config user.name "field-index-bot"
+          git config user.email "field-index-bot@users.noreply.github.com"
+          git checkout -B "$branch"
+          git add FIELD_INDEX.md data/repo-index.json
+          git commit -m "chore: refresh public Field Index"
+          git push --force origin "$branch"
+
+          existing="$(gh pr list --head "$branch" --base main --state open --json number --jq '.[0].number // empty')"
+          if [ -z "$existing" ]; then
+            gh pr create --base main --head "$branch" --title "chore: refresh public Field Index" --body "Automated refresh from GitHub's public repository endpoint. Private repositories are not part of the generator input."
+          else
+            echo "Updated existing refresh PR #$existing"
+          fi
