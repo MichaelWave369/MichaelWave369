@@ -33,6 +33,14 @@ This GitHub is the workshop.
 | [Super Φ.Vessel](https://github.com/MichaelWave369/SuperPhiVessel) | [Φ369 Research Lab](https://zenodo.org/communities/enter-the-field-phi369/records) | [WaveForge Studio](https://github.com/MichaelWave369/WaveForgeStudio) | [JukeBot](https://github.com/MichaelWave369/JukeBot) |
 | [Commonline](https://github.com/MichaelWave369/Commonline) | Experimental protocols + negative controls | [ParaCut](https://github.com/MichaelWave369/paracut) | [Spark: The Substrate](https://spark-substrate.microneesia79.chatgpt.site/) |
 
+<div align="center">
+
+### [Browse the complete Field Index →](./FIELD_INDEX.md)
+
+108 public repositories organized by system, research line, creative tool, world, utility, and Field role.
+
+</div>
+
 ---
 
 ## What's alive now
