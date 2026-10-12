@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0",
   "owner": "MichaelWave369",
-  "generated_at": "2026-10-06",
-  "source": "GitHub public repository census",
-  "public_repository_count": 108,
+  "generated_at": "2026-10-12",
+  "source": "GitHub public repositories endpoint",
+  "public_repository_count": 140,
   "note": "Private repositories are intentionally excluded from this public index.",
   "categories": {
     "ARCHIVE_REFERENCE": 1,
-    "COLLABORATORS": 14,
-    "COMMUNITY_APPS": 9,
-    "CORE_SYSTEMS": 15,
-    "CREATIVE": 15,
+    "COLLABORATORS": 15,
+    "COMMUNITY_APPS": 12,
+    "CORE_SYSTEMS": 17,
+    "CREATIVE": 21,
     "EXPERIMENTAL": 4,
-    "FIELD_META": 4,
-    "GAMES_WORLDS": 10,
-    "INFRASTRUCTURE": 9,
-    "RESEARCH": 17,
-    "UTILITIES": 10
+    "FIELD_META": 5,
+    "GAMES_WORLDS": 14,
+    "INFRASTRUCTURE": 12,
+    "RESEARCH": 25,
+    "UTILITIES": 14
   },
   "repos": [
     {
@@ -26,7 +26,11 @@
       "status": "REFERENCE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Agentora",
@@ -35,7 +39,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Aidora",
@@ -44,16 +52,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "BrainC",
       "url": "https://github.com/MichaelWave369/BrainC",
       "category": "COLLABORATORS",
-      "status": "ACTIVE",
-      "featured": false,
+      "status": "FEATURED",
+      "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "CoEvo",
@@ -62,7 +78,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "EVIE",
@@ -71,7 +91,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "FieldAccord",
+      "url": "https://github.com/MichaelWave369/FieldAccord",
+      "category": "COLLABORATORS",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "GypsyAI",
@@ -80,7 +117,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Memoria",
@@ -89,7 +130,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "mempalace",
@@ -98,7 +143,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "personamirror369",
@@ -107,7 +156,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "phibot",
@@ -116,7 +169,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "SIcologist",
@@ -125,7 +182,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "SuperPhiVessel",
@@ -134,7 +195,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "think-tank",
@@ -143,7 +208,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "xi-vessel-bridge",
@@ -152,7 +221,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "BizHaven",
@@ -161,7 +234,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "FamilyVault",
@@ -170,7 +247,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "FieldHaven",
@@ -179,7 +260,37 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "FieldManual369",
+      "url": "https://github.com/MichaelWave369/FieldManual369",
+      "category": "COMMUNITY_APPS",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "FieldMedic",
+      "url": "https://github.com/MichaelWave369/FieldMedic",
+      "category": "COMMUNITY_APPS",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "FrontPorchAI",
@@ -188,7 +299,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "GLO",
+      "url": "https://github.com/MichaelWave369/GLO",
+      "category": "COMMUNITY_APPS",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Growora",
@@ -197,7 +325,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "kindbridge369",
@@ -206,7 +338,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "LittUp",
@@ -215,7 +351,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PocketBrain",
@@ -224,7 +364,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "RecoM3ndo",
@@ -233,7 +377,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "ANC",
@@ -242,7 +390,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "BudgetGenius",
+      "url": "https://github.com/MichaelWave369/BudgetGenius",
+      "category": "CORE_SYSTEMS",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "codeveil369",
@@ -251,7 +416,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "EmberFlow369",
@@ -260,7 +429,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "flow-covenant-runtime",
@@ -269,7 +442,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "focusbridge21",
@@ -278,7 +455,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "lumen_sword_369",
@@ -287,7 +468,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Mindora",
@@ -296,7 +481,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "nevora-codex",
@@ -305,7 +494,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "OpenBlueprintStudio",
+      "url": "https://github.com/MichaelWave369/OpenBlueprintStudio",
+      "category": "CORE_SYSTEMS",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PhiKernel",
@@ -314,7 +520,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "phioffice369",
@@ -323,7 +533,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PhiOS",
@@ -332,7 +546,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PhiPie",
@@ -341,7 +559,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Reconnect",
@@ -350,16 +572,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Trellis",
       "url": "https://github.com/MichaelWave369/Trellis",
       "category": "CORE_SYSTEMS",
-      "status": "ACTIVE",
-      "featured": false,
+      "status": "FEATURED",
+      "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Triad369-Launchpad",
@@ -368,7 +598,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Auralith369",
@@ -377,7 +611,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Cannabiverse",
@@ -386,7 +624,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "CineSwarm",
@@ -395,7 +637,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Domistika",
@@ -404,7 +650,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "JukeBot",
@@ -413,7 +663,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "MemeForge",
@@ -422,7 +676,50 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "mictek-house",
+      "url": "https://github.com/MichaelWave369/mictek-house",
+      "category": "CREATIVE",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "MoreBounceLabs",
+      "url": "https://github.com/MichaelWave369/MoreBounceLabs",
+      "category": "CREATIVE",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "MuseVault",
+      "url": "https://github.com/MichaelWave369/MuseVault",
+      "category": "CREATIVE",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "OverStrings",
@@ -431,7 +728,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "paracut",
@@ -440,16 +741,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "parallax-pixelforge",
       "url": "https://github.com/MichaelWave369/parallax-pixelforge",
       "category": "CREATIVE",
-      "status": "ACTIVE",
-      "featured": false,
+      "status": "FEATURED",
+      "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PHIAudio",
@@ -458,7 +767,37 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "Phiform",
+      "url": "https://github.com/MichaelWave369/Phiform",
+      "category": "CREATIVE",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "PhiSkrit",
+      "url": "https://github.com/MichaelWave369/PhiSkrit",
+      "category": "CREATIVE",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PHIVid",
@@ -467,7 +806,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "SIGLStudio",
@@ -476,7 +819,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "SiliconLouvre",
+      "url": "https://github.com/MichaelWave369/SiliconLouvre",
+      "category": "CREATIVE",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Vibe",
@@ -485,7 +845,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "WaveForgeStudio",
@@ -494,7 +858,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "WaveRider",
@@ -503,7 +871,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "12fold",
@@ -512,7 +884,11 @@
       "status": "EXPERIMENTAL",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "atomspace-rocks",
@@ -521,7 +897,11 @@
       "status": "EXPERIMENTAL",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Codex",
@@ -530,7 +910,11 @@
       "status": "EXPERIMENTAL",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "VAL",
@@ -539,7 +923,24 @@
       "status": "EXPERIMENTAL",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "FieldAtlas",
+      "url": "https://github.com/MichaelWave369/FieldAtlas",
+      "category": "FIELD_META",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "MichaelWave369",
@@ -548,7 +949,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "michaelwhughes-portfolio",
@@ -557,7 +962,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "openfield",
@@ -566,7 +975,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "parallax-369-public-primer",
@@ -575,7 +988,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "BounceDeck",
@@ -584,7 +1001,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "brainsweatstudios",
@@ -593,7 +1014,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "ComicRelief",
@@ -602,7 +1027,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "GiltHouse",
+      "url": "https://github.com/MichaelWave369/GiltHouse",
+      "category": "GAMES_WORLDS",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "HomeBass",
@@ -611,7 +1053,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "NightCircuit",
@@ -620,7 +1066,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "OakStreetRumble",
@@ -629,7 +1079,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "parallax-gran-prix",
@@ -638,7 +1092,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PhiCade",
@@ -647,7 +1105,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PorchQuest369",
@@ -656,7 +1118,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PrivateSpark",
@@ -665,7 +1131,50 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "ProofArcade",
+      "url": "https://github.com/MichaelWave369/ProofArcade",
+      "category": "GAMES_WORLDS",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "Pulse369",
+      "url": "https://github.com/MichaelWave369/Pulse369",
+      "category": "GAMES_WORLDS",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "The-MDF-Files",
+      "url": "https://github.com/MichaelWave369/The-MDF-Files",
+      "category": "GAMES_WORLDS",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "atomspace-storage",
@@ -674,7 +1183,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Browsallax",
@@ -683,16 +1196,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Commonline",
       "url": "https://github.com/MichaelWave369/Commonline",
       "category": "INFRASTRUCTURE",
-      "status": "FEATURED",
-      "featured": true,
+      "status": "ACTIVE",
+      "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "datacenter-ledger-explorer",
@@ -701,7 +1222,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "ebpf-for-windows",
@@ -710,7 +1235,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "FieldCloudWorker",
+      "url": "https://github.com/MichaelWave369/FieldCloudWorker",
+      "category": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Infinite-Commons",
@@ -719,7 +1261,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Infinite-Porch",
@@ -728,7 +1274,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "parallax-watchtower",
@@ -737,7 +1287,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "PHircQ",
@@ -746,7 +1300,50 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "PhiStream",
+      "url": "https://github.com/MichaelWave369/PhiStream",
+      "category": "INFRASTRUCTURE",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "PorchTalk",
+      "url": "https://github.com/MichaelWave369/PorchTalk",
+      "category": "INFRASTRUCTURE",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "aqlen-quantum-ledger",
+      "url": "https://github.com/MichaelWave369/aqlen-quantum-ledger",
+      "category": "RESEARCH",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "AquaCymatics369",
@@ -755,7 +1352,37 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "axiomforge-ledger",
+      "url": "https://github.com/MichaelWave369/axiomforge-ledger",
+      "category": "RESEARCH",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "bubblenest",
+      "url": "https://github.com/MichaelWave369/bubblenest",
+      "category": "RESEARCH",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "cannabis-as-sacred-medicine",
@@ -764,7 +1391,37 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "chronolattice",
+      "url": "https://github.com/MichaelWave369/chronolattice",
+      "category": "RESEARCH",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "CollaborationJunction",
+      "url": "https://github.com/MichaelWave369/CollaborationJunction",
+      "category": "RESEARCH",
+      "status": "FEATURED",
+      "featured": true,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "concrete-atlas",
@@ -773,7 +1430,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "consent_mirror_369",
@@ -782,7 +1443,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "DCL",
+      "url": "https://github.com/MichaelWave369/DCL",
+      "category": "RESEARCH",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "enter-the-field-research",
@@ -791,7 +1469,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "goldenjoy369",
@@ -800,7 +1482,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "governance-drift-rsdc",
@@ -809,7 +1495,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "hidden-equations-of-feeling",
@@ -818,7 +1508,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "infinitylens369",
@@ -827,7 +1521,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "langarian-math",
@@ -836,7 +1534,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "NestedBubbleGear",
@@ -845,7 +1547,11 @@
       "status": "FEATURED",
       "featured": true,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "pain-joy-continuum",
@@ -854,7 +1560,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "ParaCalc369",
@@ -863,7 +1573,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "parallax-arc",
@@ -872,7 +1586,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "particleforge369",
@@ -881,7 +1599,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "Phi-Morph",
+      "url": "https://github.com/MichaelWave369/Phi-Morph",
+      "category": "RESEARCH",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "phi369-element-spiral-atlas",
@@ -890,7 +1625,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "PhiMirrorHex",
+      "url": "https://github.com/MichaelWave369/PhiMirrorHex",
+      "category": "RESEARCH",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "schumann-live-react",
@@ -899,7 +1651,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Blinker",
@@ -908,7 +1664,37 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "DropZone",
+      "url": "https://github.com/MichaelWave369/DropZone",
+      "category": "UTILITIES",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "FieldDeck",
+      "url": "https://github.com/MichaelWave369/FieldDeck",
+      "category": "UTILITIES",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "inspection-closeout-pilot",
@@ -917,7 +1703,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "LabelFit",
+      "url": "https://github.com/MichaelWave369/LabelFit",
+      "category": "UTILITIES",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Nevora-Translator",
@@ -926,7 +1729,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "Peekaboo",
@@ -935,7 +1742,24 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
+    },
+    {
+      "name": "PhiScribe",
+      "url": "https://github.com/MichaelWave369/PhiScribe",
+      "category": "UTILITIES",
+      "status": "ACTIVE",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "public-apis-search",
@@ -944,7 +1768,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "ReceiptRipper",
@@ -953,7 +1781,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "reporider",
@@ -962,7 +1794,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "SCAM-A-LAX",
@@ -971,7 +1807,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "SponsorRail",
@@ -980,7 +1820,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     },
     {
       "name": "WizardWebb",
@@ -989,7 +1833,11 @@
       "status": "ACTIVE",
       "featured": false,
       "archived": false,
-      "visibility": "public"
+      "visibility": "public",
+      "description": null,
+      "language": null,
+      "fork": false,
+      "updated_at": null
     }
   ]
 }
