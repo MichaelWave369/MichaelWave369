@@ -81,6 +81,16 @@ These projects connect conceptually, but a link on this page does **not** imply 
 | **[The Silicon Louvre](https://github.com/MichaelWave369/SiliconLouvre)** | Optical art, perception, and human–AI creative provenance |
 | **[The MDF Files](https://github.com/MichaelWave369/The-MDF-Files)** | A fictional network-technician horror/comedy archive, because field tickets deserve their own genre |
 
+## Useful things for everyday life
+
+Not everything here is an agent framework or a theoretical experiment. Some projects focus on practical needs:
+
+- **[GLO Pin](https://github.com/MichaelWave369/GLO)** — an accountless, local-first way to record and explore community resources.
+- **[FieldDeck](https://github.com/MichaelWave369/FieldDeck)** — a human-reviewed action dashboard with separate, permissioned execution workflows.
+- **[FieldAtlas](https://github.com/MichaelWave369/FieldAtlas)** — a visual doorway into the growing collection of sites and tools.
+- **[FamilyVault](https://github.com/MichaelWave369/FamilyVault)** — family-centered software experimentation.
+- **[Spark: The Substrate](https://spark-substrate.microneesia79.chatgpt.site/)** — a public playable-world experiment (the link is to the game, not a public source repository).
+
 ## How I work
 
 **Need or question → observable definition → smallest useful implementation → tests and counterexamples → evidence receipt → review → human decision → revise.**
