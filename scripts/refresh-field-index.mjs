@@ -81,15 +81,19 @@ md += '> Generated from public GitHub repositories only. Private repositories ar
 md += `**${repos.length} public repositories indexed** · Snapshot: ${today}\n\n`
 md += 'This is the deeper navigation layer behind the [MichaelWave369 profile](./README.md). The profile is the front door; this file is the map.\n\n'
 md += '## Start here\n\n'
-md += '| Lane | Good first stops |\n|---|---|\n'
-md += `| **Core Systems** | ${link('PhiOS')} · ${link('Infinite-Porch')} · ${link('Commonline')} |\n`
-md += `| **Computational Collaborators** | ${link('SuperPhiVessel')} · ${link('SIcologist')} · ${link('BrainC')} |\n`
-md += `| **Research** | ${link('NestedBubbleGear')} · ${link('governance-drift-rsdc')} · ${link('enter-the-field-research')} |\n`
-md += `| **Creative** | ${link('Domistika')} · ${link('Auralith369')} · ${link('WaveForgeStudio')} |\n`
-md += `| **Games & Worlds** | ${link('PhiCade')} · ${link('HomeBass')} · ${link('NightCircuit')} |\n\n`
+md += '| Lane | Current entry points |\n|---|---|\n'
+for (const [lane, names] of [
+  ['Operating systems & applications', ['PhiOS', 'Trellis', 'OpenBlueprintStudio', 'phioffice369']],
+  ['Local compute & networks', ['Infinite-Porch', 'PorchTalk', 'PhiStream', 'BudgetGenius']],
+  ['Computational collaborators', ['SuperPhiVessel', 'FieldAccord', 'think-tank', 'BrainC']],
+  ['Research & education', ['NestedBubbleGear', 'CollaborationJunction', 'FieldManual369', 'enter-the-field-research']],
+  ['Creative computing', ['Domistika', 'SiliconLouvre', 'MoreBounceLabs', 'parallax-pixelforge']],
+  ['Games & experiences', ['PhiCade', 'Pulse369', 'HomeBass', 'NightCircuit']]
+]) md += `| **${lane}** | ${names.map(link).join(' · ')} |\n`
+md += '\n'
 md += '## How to read this index\n\n'
 md += '- **FEATURED** — a strong current entry point into the ecosystem.\n'
-md += '- **ACTIVE** — public project currently represented in the Field.\n'
+md += '- **ACTIVE** — listed public project; not a deployment, security, or release certification.\n'
 md += '- **EXPERIMENTAL** — exploratory or not yet confidently classified.\n'
 md += '- **REFERENCE** — archive/reference surface rather than a primary active system.\n\n'
 md += 'Repository visibility on GitHub is the source boundary for this index. **Private repos are never emitted into the public catalog.**\n\n---\n\n'
