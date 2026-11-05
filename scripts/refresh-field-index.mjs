@@ -83,12 +83,88 @@ md += 'This is the deeper navigation layer behind the [MichaelWave369 profile](.
 md += '## Start here\n\n'
 md += '| Lane | Current entry points |\n|---|---|\n'
 for (const [lane, names] of [
-  ['Operating systems & applications', ['PhiOS', 'Trellis', 'OpenBlueprintStudio', 'phioffice369']],
-  ['Local compute & networks', ['Infinite-Porch', 'PorchTalk', 'PhiStream', 'BudgetGenius']],
-  ['Computational collaborators', ['SuperPhiVessel', 'FieldAccord', 'think-tank', 'BrainC']],
-  ['Research & education', ['NestedBubbleGear', 'CollaborationJunction', 'FieldManual369', 'enter-the-field-research']],
-  ['Creative computing', ['Domistika', 'SiliconLouvre', 'MoreBounceLabs', 'parallax-pixelforge']],
-  ['Games & experiences', ['PhiCade', 'Pulse369', 'HomeBass', 'NightCircuit']]
+  [
+    "Find your way around",
+    [
+      "FieldConstellation",
+      "PhiMadaPrime",
+      "FieldAtlas",
+      "FieldDeck"
+    ]
+  ],
+  [
+    "Operating systems & compute",
+    [
+      "PhiOS",
+      "PhiKernel",
+      "-Core369",
+      "PhiServe",
+      "Trellis"
+    ]
+  ],
+  [
+    "Local networks & inference",
+    [
+      "Infinite-Porch",
+      "PhiStream",
+      "PorchTalk",
+      "BudgetGenius"
+    ]
+  ],
+  [
+    "Memory, collaboration & evidence",
+    [
+      "PhiTriBrain369",
+      "Agentora",
+      "SuperPhiVessel",
+      "FieldAccord"
+    ]
+  ],
+  [
+    "XR tools & interfaces",
+    [
+      "GenEWrist",
+      "OverStrings",
+      "Opti-Eyes",
+      "PhiBridge369"
+    ]
+  ],
+  [
+    "Research & experimental models",
+    [
+      "NestedBubbleGear",
+      "Altermath",
+      "CompAware",
+      "PhiRSI"
+    ]
+  ],
+  [
+    "Art, music & creative studios",
+    [
+      "Domistika",
+      "PhianoSheets",
+      "LWG",
+      "MoreBounceLabs"
+    ]
+  ],
+  [
+    "Games, simulation & stories",
+    [
+      "BTM",
+      "SparkTheSubstrate",
+      "RacetoOblivion",
+      "ARCLight"
+    ]
+  ],
+  [
+    "Everyday tools & learning",
+    [
+      "PaperGhost",
+      "OpenBlueprintStudio",
+      "FieldManual369",
+      "GLO"
+    ]
+  ]
 ]) md += `| **${lane}** | ${names.map(link).join(' · ')} |\n`
 md += '\n'
 md += '## How to read this index\n\n'
@@ -103,7 +179,7 @@ for (const category of categoryOrder) {
   if (!items.length) continue
   md += `## ${labels[category] || category} · ${items.length}\n\n`
   md += '| Repository | Status |\n|---|---|\n'
-  for (const repo of items) md += `| [${repo.name}](${repo.url}) | \\`${repo.status}\\` |\n`
+  for (const repo of items) md += '| [' + repo.name + '](' + repo.url + ') | ' + String.fromCharCode(96) + repo.status + String.fromCharCode(96) + ' |\n'
   md += '\n'
 }
 
@@ -114,7 +190,7 @@ for (const category of Object.keys(categories)) {
 md += '---\n\n## Field principle\n\n'
 md += '> **The public index explains the Field. The private operator surfaces operate it.**\n\n'
 md += 'That boundary is intentional.\n\n'
-md += '\\`REALITY IS THE CUSTOMER.\\` · \\`CAPABILITY ≠ AUTHORITY.\\` · \\`KEEP THE EVIDENCE ATTACHED.\\`\n'
+md += '**REALITY IS THE CUSTOMER.** · **CAPABILITY ≠ AUTHORITY.** · **KEEP THE EVIDENCE ATTACHED.**\n'
 
 await fs.writeFile(INDEX_PATH, JSON.stringify(snapshot, null, 2) + '\n')
 await fs.writeFile(MARKDOWN_PATH, md)
