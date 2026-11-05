@@ -13,4 +13,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - run: node --check scripts/refresh-field-index.mjs
+      - run: node --check scripts/validate-field-index.mjs
       - run: node scripts/validate-field-index.mjs
