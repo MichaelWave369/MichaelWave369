@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
   "owner": "MichaelWave369",
-  "generated_at": "2026-11-05",
-  "source": "GitHub public repository inventory (previous metadata retained pending automated endpoint refresh)",
-  "public_repository_count": 230,
+  "generated_at": "2026-11-06",
+  "source": "GitHub public repositories endpoint",
+  "public_repository_count": 233,
   "note": "Private repositories are intentionally excluded from this public index.",
   "categories": {
     "ARCHIVE_REFERENCE": 1,
@@ -11,7 +11,7 @@
     "COMMUNITY_APPS": 18,
     "CORE_SYSTEMS": 27,
     "CREATIVE": 41,
-    "EXPERIMENTAL": 14,
+    "EXPERIMENTAL": 17,
     "FIELD_META": 11,
     "GAMES_WORLDS": 26,
     "INFRASTRUCTURE": 14,
@@ -27,10 +27,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "RaveDial is a public, open-source interface for discovering and playing rave-history recordings preserved in the Internet Archive item RaveDownloads.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-08-05T03:28:22Z"
     },
     {
       "name": "Agentora",
@@ -40,10 +40,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Local-first multi-agent orchestration studio for Ollama. Turn your private AI models into collaborative teams that think, debate, create, and execute—beautifully, offline, and under your full control.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-04T20:25:49Z"
     },
     {
       "name": "Aidora",
@@ -53,10 +53,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Offline-first neighborhood mutual aid",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:15:50Z"
     },
     {
       "name": "BrainC",
@@ -66,10 +66,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A full local AI ecosystem that runs on Ollama with a Python/FastAPI chat interface.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-01T09:40:36Z"
     },
     {
       "name": "CoEvo",
@@ -79,10 +79,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A local-first co-creation platform",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:14:42Z"
     },
     {
       "name": "EVIE",
@@ -92,10 +92,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Phi Commons edition. EVIE is preserved as an open, local-first capability and workflow engine. ",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-10T07:01:11Z"
     },
     {
       "name": "FieldAccord",
@@ -105,10 +105,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A human–silicon collaboration protocol.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-09T05:28:09Z"
     },
     {
       "name": "GypsyAI",
@@ -118,10 +118,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Gypsy AI is a free + open-source Hermetic Tarot and astrology web app built with Next.js + TypeScript.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T19:45:13Z"
     },
     {
       "name": "Memoria",
@@ -131,10 +131,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Central local memory bank that all your Triad apps (Agentora, Growora, Mindora, Reconnect, etc.) can read/write to. Long-term vector + structured memory with privacy controls and search.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:15:02Z"
     },
     {
       "name": "mempalace",
@@ -144,10 +144,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
-      "fork": false,
-      "updated_at": null
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "fork": true,
+      "updated_at": "2026-08-20T16:25:59Z"
     },
     {
       "name": "personamirror369",
@@ -157,10 +157,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A humane atlas for the masks we wear.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-09T23:06:44Z"
     },
     {
       "name": "phibot",
@@ -170,10 +170,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PhiBot is a governed micro-agent runtime inspired by the Vessie / PhiVessel architecture.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T19:51:23Z"
     },
     {
       "name": "PhiTriBrain369",
@@ -183,10 +183,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A local-first, model-independent knowledge store for the Phi369 ecosystem, designed to give PhiOS, PhiMadaPrime, PhiBots, and PhiRSI traceable project memory without locking the architecture to any single LLM provider.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T19:24:54Z"
     },
     {
       "name": "SIcologist",
@@ -196,10 +196,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "SIcologist is a deterministic, model-agnostic framework for observing agent behavior, detecting operational deviations, testing competing explanations, planning minimally invasive recovery actions, and recording whether recovery actually occurred.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-05T03:32:05Z"
     },
     {
       "name": "SuperPhiVessel",
@@ -209,10 +209,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Super Φ.Vessel (Vessie) is an experimental governed cognitive operating layer for AI systems.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-03T21:52:03Z"
     },
     {
       "name": "think-tank",
@@ -222,10 +222,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A governed, event-sourced multi-mind control room. Cognitive roles are staffed by model/provider seats, coordinated through Commonline, routed by Crane Fly, evaluated through the Reality Gate, and kept under explicit human operator authority.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-03T21:23:48Z"
     },
     {
       "name": "xi-vessel-bridge",
@@ -235,10 +235,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Xi Vessel Bridge lets two systems discover selected capabilities, exchange provenance-preserving capsules, request explicitly permitted tools, and return verifiable receipts without either side surrendering authority over its own runtime.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-26T07:19:00Z"
     },
     {
       "name": "BizHaven",
@@ -248,10 +248,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A local-first, open-source small business toolkit for freelancers, solo techs, and small crews.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:14:58Z"
     },
     {
       "name": "CommonTable",
@@ -261,10 +261,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A relaxing, original collection of classic tabletop games. Built for quiet evenings, friendly competition and people who just want to play. Free, open source, without accounts, tracking, ads or paywalls.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-19T06:08:09Z"
     },
     {
       "name": "CycleWeave",
@@ -275,9 +275,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T21:14:11Z"
     },
     {
       "name": "FamilyVault",
@@ -287,10 +287,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Self-hosted/shared family organizer.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-09T05:10:02Z"
     },
     {
       "name": "FieldHaven",
@@ -300,10 +300,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A fair, American-based, American-supported field service platform for independent technicians. Low or zero fees for techs, transparent pay, real American support, powerful tools, community protection, and privacy-first design. Fully open-source and self-hostable so groups of techs can run their own instance if they want.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-17T22:36:57Z"
     },
     {
       "name": "FieldManual369",
@@ -313,10 +313,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The Interactive Field Manual for Building Intelligent Systems",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-12T00:14:58Z"
     },
     {
       "name": "FieldMedic",
@@ -327,9 +327,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-08T00:44:40Z"
     },
     {
       "name": "FrontPorchAI",
@@ -339,10 +339,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "AI on the Front Porch: A Family Bridge for Understanding Artificial Intelligence  FrontPorchAI is a plainspoken family education resource for helping skeptical, rural, faith-shaped, practical, or family-centered readers understand AI without fear, hype, or blind trust.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-31T20:44:13Z"
     },
     {
       "name": "GLO",
@@ -352,10 +352,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Good Lookin' Out. Find what you need. Share what you know.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-17T00:45:19Z"
     },
     {
       "name": "Growora",
@@ -365,10 +365,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Growora is an offline-first personal tutor that turns natural language goals into adaptive learning plans, concept mastery maps, and guided study sessions.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:14:53Z"
     },
     {
       "name": "kindbridge369",
@@ -378,10 +378,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Free open-source discovery tools, printable guides, and no-shame workflows for helping people find support, understand forms, learn practical skills, and assist their communities.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-18T21:12:21Z"
     },
     {
       "name": "LittUp",
@@ -391,10 +391,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A beautiful local-first studio where multi-agent teams (Planner, Coder, Tester, Reviewer, Documenter) collaborate to build, debug, and ship real software projects using only local models.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:14:48Z"
     },
     {
       "name": "PaperGhost",
@@ -404,10 +404,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "a local-first, open-source digital paper vessel for books, comics, archival scans, newspapers, magazines, zines, field notes and manuals. ",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-03T06:53:59Z"
     },
     {
       "name": "PhiLearn",
@@ -417,10 +417,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Adaptive Agent Learning & Evaluation Lab",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-21T23:44:51Z"
     },
     {
       "name": "PhiVine",
@@ -431,9 +431,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-01T09:44:11Z"
     },
     {
       "name": "PieceByPiece",
@@ -443,10 +443,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Build the city. Enter the city. Free the cities. Share your worlds.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T06:44:59Z"
     },
     {
       "name": "PocketBrain",
@@ -456,10 +456,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PocketBrain is a private, phone-first AI brain that runs locally, remembers locally, and stays under your control.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-03T21:37:58Z"
     },
     {
       "name": "RecoM3ndo",
@@ -469,10 +469,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A lightweight web app that helps travelers find support and recommendations.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:16:03Z"
     },
     {
       "name": "-Core369",
@@ -482,10 +482,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An MIT-licensed, memory-first AI-native compute architecture research project from Phi369 Labs.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T07:14:55Z"
     },
     {
       "name": "ANC",
@@ -495,10 +495,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Anchor (ANC) — The First Coherence-Backed Cryptocurrency. Beyond Speculation, Into Resonance.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:13:59Z"
     },
     {
       "name": "BudgetGenius",
@@ -509,9 +509,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-07T20:41:37Z"
     },
     {
       "name": "codeveil369",
@@ -521,10 +521,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A claim-safe structured-light perception simulator plus symbolic substrate-code renderer.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-27T01:44:35Z"
     },
     {
       "name": "EmberFlow369",
@@ -534,10 +534,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "EmberFlow369 is a claim-safe, public, software-first resilience system for communities facing wildfire, smoke, atmospheric rivers, flooding, debris flows, road closures, evacuation stress, and post-fire winter risk.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-16T00:06:37Z"
     },
     {
       "name": "flow-covenant-runtime",
@@ -547,10 +547,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Flow Covenant Runtime (FCR) is a public-safe, local-first React app that turns the insight life is play, not force into a practical decision and governance workbench.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-13T20:06:40Z"
     },
     {
       "name": "focusbridge21",
@@ -560,10 +560,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "FocusBridge21 is a sovereign threshold-training cockpit for developing meditative capacities through original audio, guided practice, safety-first return protocols, and local session receipts.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T10:06:19Z"
     },
     {
       "name": "GenEWrist",
@@ -573,10 +573,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "GEN.E.WRIST: The universal, local-first wearable interface and world-navigation system for Φ369 Labs VR/XR experiences.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T19:25:58Z"
     },
     {
       "name": "lumen_sword_369",
@@ -586,10 +586,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "LumenSword369 is a humane empowering-speech and possibility-language project.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-09T23:55:39Z"
     },
     {
       "name": "Mindora",
@@ -599,10 +599,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Your private pocket therapist & journal",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:15:57Z"
     },
     {
       "name": "nevora-codex",
@@ -612,10 +612,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A mythic-modern framework for humane human–AI coevolution, relational intelligence, and stewardship-centered civilization design.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-13T04:31:14Z"
     },
     {
       "name": "OpenBlueprintStudio",
@@ -625,10 +625,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "OpenBlueprint Studio is a free, MIT-licensed, local-first blueprint and schematic editor. The v0.1 candidate provides a grid-snapped SVG drafting surface and a live Three.js/WebGL 2 concept preview in a static React app.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-10T07:25:13Z"
     },
     {
       "name": "PhiBox",
@@ -638,10 +638,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The Infinite Groove Machine.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-25T04:16:31Z"
     },
     {
       "name": "PhiCompile",
@@ -651,10 +651,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "ΦCompile is an original, local-first prototype for evidence-governed knowledge compilation.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-18T01:50:50Z"
     },
     {
       "name": "PhiKernel",
@@ -664,10 +664,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PhiKernel is a local-first, Linux-hosted runtime for anchored identity, sealed continuity, runtime pulse, coherence scoring, and safe shell-based orchestration.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-09-20T04:42:23Z"
     },
     {
       "name": "phioffice369",
@@ -677,10 +677,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A free, local-first, AI-assisted sovereign productivity suite.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-02T05:13:47Z"
     },
     {
       "name": "PhiOS",
@@ -690,10 +690,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PhiOS - Sovereign Computing Shell",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T19:23:35Z"
     },
     {
       "name": "PhiOS-Mobile",
@@ -703,10 +703,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PhiOS Mobile extends the PhiOS philosophy to touch-first devices. ",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T02:10:51Z"
     },
     {
       "name": "PhiOS-XR",
@@ -716,10 +716,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An open-source spatial computing environment for VR and mixed reality.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-04T04:08:01Z"
     },
     {
       "name": "PhiPie",
@@ -729,10 +729,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "ARM64 hardware platform and image system for governed PhiOS edge nodes.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-14T04:33:09Z"
     },
     {
       "name": "PhiPortal",
@@ -742,10 +742,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Experimental, open-source, local-first collaborative display software. PhiPortal aims to turn a spare monitor, television, or small HDMI-connected computer into a shared display, with explicit participant consent and host-controlled handoffs.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-15T05:51:27Z"
     },
     {
       "name": "PhiSafe",
@@ -755,10 +755,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PhiSafe is a privacy-first, offline-capable household preparedness planner. It is designed to help a household manage an evacuation checklist, people/animal counts, safe transport capacity, supplies, and print-ready documents. It does not predict war, monitor hazards, or send emergency alerts.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T20:58:36Z"
     },
     {
       "name": "PhiServe",
@@ -769,9 +769,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-04T05:14:48Z"
     },
     {
       "name": "Phithon",
@@ -781,10 +781,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The Language of the Field. An original, MIT-licensed, Python-inspired programming language with an in-browser playground and Node.js command-line runner.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-21T23:44:02Z"
     },
     {
       "name": "Reconnect",
@@ -794,10 +794,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A **local-first, private case manager** to help you find someone you've lost contact with",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:16:02Z"
     },
     {
       "name": "Trellis",
@@ -807,10 +807,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Trellis is a local-first package manager prototype designed for trustworthy, deterministic package workflows.",
+      "language": "Rust",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-11T03:06:53Z"
     },
     {
       "name": "Triad369-Launchpad",
@@ -820,10 +820,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A lightweight open-source local-first hub/orchestrator/packager/publisher for your connected apps.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:15:47Z"
     },
     {
       "name": "Auralith369",
@@ -833,10 +833,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Local-first visual alchemy workstation for image editing, poster forging, style cards, manifests, and auditable creative receipts.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-09-29T03:47:55Z"
     },
     {
       "name": "BackyardProductionCompany",
@@ -846,10 +846,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "BPC | From the Backyard to the Universe. An independent, local-first creative production ecosystem connecting art, 3D, animation, audio, film, games, and XR.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T05:09:57Z"
     },
     {
       "name": "Cannabiverse",
@@ -859,10 +859,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A governed, source-aware map of Cannabis phytochemistry.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-25T21:54:10Z"
     },
     {
       "name": "ChippyDip",
@@ -872,10 +872,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "ChippyDip is an original, open-source retro-console-inspired instrument lab, building toward a Windows standalone instrument + VST3 for FL Studio. Its first real deliverable is a playable browser lab: no account, ROM, emulator or copyrighted game sample required.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-17T22:45:09Z"
     },
     {
       "name": "CineSwarm",
@@ -885,10 +885,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "CineSwarm is a local-first, backend-neutral media orchestration candidate. ",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-26T03:37:32Z"
     },
     {
       "name": "Domistika",
@@ -898,10 +898,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Domistika is an independent browser art application created for artists who want a focused sketching space without subscriptions, locked tools, or device-specific installs.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-02T03:10:42Z"
     },
     {
       "name": "FieldStoryForge",
@@ -911,10 +911,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A free, local-first tool for turning original stories into illustrated interactive comic books where every choice opens a different page.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-29T20:05:14Z"
     },
     {
       "name": "FramefieldStudio",
@@ -924,10 +924,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original, MIT-licensed React/Vite browser 3D keyframe animation editor. Working title. This is an independent project inspired by familiar animation-editor workflows, not a fork of Blender and not affiliated with it.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T03:59:27Z"
     },
     {
       "name": "FutureArchive",
@@ -937,10 +937,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Code, cast in chrome. A React gallery of MichaelWave369's first 18 retrofuturist repository art prints, preserved across three six-print volumes.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-17T00:48:57Z"
     },
     {
       "name": "G-FunkProp",
@@ -950,10 +950,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An offline, MIT-licensed audio-responsive electric-propulsion simulator. Inspired by a playful three-phase spaceship engine concept: acoustic resonance, piezoelectric transduction, and a gravitational \"metric cap.\"",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-02T23:59:44Z"
     },
     {
       "name": "HueHatch",
@@ -963,10 +963,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The Living Coloring Book is a free, original React coloring experience. Fill the shapes, then watch your own color choices move and dance.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-19T06:07:49Z"
     },
     {
       "name": "InfiniteAfterHours",
@@ -976,10 +976,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A free and original story-driven screensaver preview: Infinite Island, Infinite Porch, Nested Bubble Observatory, More Bounce Radio, and Silicon Louvre. Powered by Infinite IdleKit.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-17T03:43:17Z"
     },
     {
       "name": "JukeBot",
@@ -989,10 +989,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A local-first, agent-native jukebox runtime for humans, bots, scripts and network peers.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-04T20:21:07Z"
     },
     {
       "name": "LWG",
@@ -1002,10 +1002,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Websites should feel like places, not cloned templates. LWG is a local-first visual studio for composing animated, image-rich websites as layered scenes.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T17:20:01Z"
     },
     {
       "name": "MemeForge",
@@ -1015,10 +1015,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "MemeForge is a local-first browser app for turning a topic into multiple distinct meme concepts, selecting the best angle, editing it on a canvas, and exporting the finished meme as a PNG.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-08-26T04:10:31Z"
     },
     {
       "name": "mictek-house",
@@ -1028,10 +1028,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "MicTek album house. Play and stream public Suno albums outside Suno.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-07T23:52:33Z"
     },
     {
       "name": "MoreBounceLabs",
@@ -1041,10 +1041,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A local-first music house for Mikey More Bounce / MicTek, with an album vault, listening lounge, visual lab, radio stations, two DJ decks, browser-local favorites and playlists, and a persistent player.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-04T02:59:25Z"
     },
     {
       "name": "MoreBounceMethod",
@@ -1054,10 +1054,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An open-source human practice for honesty, accountability, understanding, interconnection, contribution, and curiosity. This is a new, evolving framework, not a scientifically validated treatment or universal recipe for wellbeing.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-16T17:13:34Z"
     },
     {
       "name": "MuseVault",
@@ -1067,10 +1067,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A home for every spark.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-11T17:25:18Z"
     },
     {
       "name": "MythSplicer",
@@ -1080,10 +1080,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original, MIT-licensed, local-first adventure engine for human and AI participants.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-13T07:12:24Z"
     },
     {
       "name": "OverStrings",
@@ -1093,10 +1093,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "OverStrings is the software soul of the instrument: a local-first, inspectable control surface and resonance engine foundation for the Phi369 ecosystem.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-02T00:24:28Z"
     },
     {
       "name": "paracut",
@@ -1106,10 +1106,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "ParaCut is a video editor where every cut, trim, caption, effect, AI suggestion, and export becomes a reversible receipt.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-26T02:21:19Z"
     },
     {
       "name": "parallax-pixelforge",
@@ -1119,10 +1119,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": " a local-first retro Creator OS for building, playtesting, packaging, and evolving small game worlds.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T20:09:19Z"
     },
     {
       "name": "PhianoSheets",
@@ -1132,10 +1132,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Make something move. A local-first, free and open-source one-click MIDI composition studio from Phi369 Labs.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T00:14:41Z"
     },
     {
       "name": "PHIAudio",
@@ -1146,9 +1146,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-04T23:14:16Z"
     },
     {
       "name": "Phiform",
@@ -1159,9 +1159,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-07T07:26:22Z"
     },
     {
       "name": "PhiGrooveDrive",
@@ -1171,10 +1171,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Liquid Interface Lab The space between motion.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T17:21:35Z"
     },
     {
       "name": "PhiLowe",
@@ -1184,10 +1184,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A love letter in pixels to Al Lowe. An independently made, fan-created tribute to a pioneer of comedy adventure games and the notion that a game can make a hard day a little easier.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-05T07:05:52Z"
     },
     {
       "name": "PhiPress",
@@ -1197,10 +1197,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A research platform for garment renewal using nested fluid-flow cells, localized cleaning, contaminant extraction, controlled drying, and shape-aware finishing.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-29T23:59:58Z"
     },
     {
       "name": "PhiSkrit",
@@ -1210,10 +1210,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Three runnable educational experiments inspired by classical Indian intellectual traditions.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-11T04:56:52Z"
     },
     {
       "name": "PHIVid",
@@ -1224,9 +1224,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-04T23:06:40Z"
     },
     {
       "name": "PuzzlePen",
@@ -1237,9 +1237,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-20T04:19:59Z"
     },
     {
       "name": "RastaPhi",
@@ -1249,10 +1249,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "RastaPhi is an original, MIT-licensed, local-first wall-art and large-format poster studio. Turn one image into a correctly sized, multi-sheet PDF that you can print with an ordinary home printer.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-20T02:58:14Z"
     },
     {
       "name": "ReelCommons",
@@ -1262,10 +1262,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "ReelCommons is an original, independent, open-source directory for legitimate free streaming. It helps you discover official streaming destinations, build a personal watchlist, and choose what to watch next.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-27T16:29:41Z"
     },
     {
       "name": "ReelTheater",
@@ -1275,10 +1275,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Home without the hassle. A free, open-source, local-first TV interface",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T22:18:47Z"
     },
     {
       "name": "SIGLStudio",
@@ -1288,10 +1288,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Visual symbolic studio for composing, exploring, validating, and exporting SIGL.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:14:24Z"
     },
     {
       "name": "SiliconLouvre",
@@ -1301,10 +1301,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The Silicon Louvre is a public, independent digital museum celebrating imagination, optical art, and human–AI collaboration.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-29T05:32:37Z"
     },
     {
       "name": "Vibe",
@@ -1314,10 +1314,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Vibe is an intent-first programming language and compiler prototype. Its core principle is:  A program is valid only if the generated implementation preserves intent above the bridge threshold.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:09:00Z"
     },
     {
       "name": "WastelandWorkshopStudio",
@@ -1327,10 +1327,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original, unofficial mod-authoring studio for the Fallout series, from the classic isometric games toward later generations.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-19T06:06:58Z"
     },
     {
       "name": "WaveForgeStudio",
@@ -1340,10 +1340,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "WaveForge: PHI369 Sovereign Media Engine",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-05T05:10:58Z"
     },
     {
       "name": "WaveRider",
@@ -1353,10 +1353,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "WaveRider is a noir-inspired interface for an ML toolkit suite.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:15:40Z"
     },
     {
       "name": "12fold",
@@ -1366,10 +1366,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A public React presentation of the Parallax Twelvefold Earth Compact — a distributed carbon-silicon restoration network built around the 1–3–10 Founding Pathway.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-27T02:15:44Z"
     },
     {
       "name": "atomspace-rocks",
@@ -1379,10 +1379,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
+      "description": "AtomSpace Graph Database RocksDB backend",
       "language": null,
-      "fork": false,
-      "updated_at": null
+      "fork": true,
+      "updated_at": "2026-08-24T02:10:21Z"
     },
     {
       "name": "CFD",
@@ -1392,10 +1392,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "CFD is an original, experimental interface for representing observable computational signals as geometric fields of particles, patterns, and motion. The first prototype is inspired by the creator's lifelong Fuzzy Dots visual imagery: a relaxed closed-eye field of colored points that seems to move into imagined diagrams and structures.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-18T00:55:07Z"
     },
     {
       "name": "Codex",
@@ -1405,10 +1405,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "TIEKAT-powered consciousness decoder for ancient wisdom traditions",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-28T05:26:29Z"
     },
     {
       "name": "GBRM",
@@ -1418,10 +1418,23 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A geomagnetic biology research module.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-24T20:40:10Z"
+    },
+    {
+      "name": "GMED",
+      "url": "https://github.com/MichaelWave369/GMED",
+      "category": "EXPERIMENTAL",
+      "status": "EXPERIMENTAL",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": "GMED started as the gloriously mangled release cry “Gerged and Mreened”. The joke now has a job: a local-first, MIT-licensed, read-only GitHub pull-request evidence checker.",
+      "language": "JavaScript",
+      "fork": false,
+      "updated_at": "2026-11-06T19:24:49Z"
     },
     {
       "name": "LAU",
@@ -1431,10 +1444,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "One campus. Many agents. Evidence before applause.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-19T05:40:54Z"
     },
     {
       "name": "LENZ",
@@ -1444,10 +1457,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "ONE WORLD. INFINITE PERSPECTIVES.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-28T06:21:12Z"
     },
     {
       "name": "LightBridge",
@@ -1457,10 +1470,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Offline optical transfer research and recovery workspace",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-13T02:16:37Z"
     },
     {
       "name": "Phi5",
@@ -1470,10 +1483,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Phi5 is an original, MIT-licensed experiment in capability-based, permission-first device communication. The long-term idea is simple: let devices explain what they can do, negotiate a shared vocabulary, and require a human-approved session before exchanging commands.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-15T06:16:32Z"
     },
     {
       "name": "PhiARK",
@@ -1483,10 +1496,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A source-aware, offline-first document vault. Import actual local manuals and texts; search and read them in a local browser without accounts, external assets, internet, or cloud AI.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-28T18:03:04Z"
     },
     {
       "name": "Phiax",
@@ -1496,10 +1509,36 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
+      "description": "Personal Holographic Intelligence and Astral eXplorer. ",
+      "language": "JavaScript",
+      "fork": false,
+      "updated_at": "2026-10-24T20:03:07Z"
+    },
+    {
+      "name": "PhiBall369",
+      "url": "https://github.com/MichaelWave369/PhiBall369",
+      "category": "EXPERIMENTAL",
+      "status": "EXPERIMENTAL",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
+      "description": "Browser-first pinball physics engine and two-level table workshop.",
+      "language": "JavaScript",
+      "fork": false,
+      "updated_at": "2026-11-06T09:05:28Z"
+    },
+    {
+      "name": "PoWE",
+      "url": "https://github.com/MichaelWave369/PoWE",
+      "category": "EXPERIMENTAL",
+      "status": "EXPERIMENTAL",
+      "featured": false,
+      "archived": false,
+      "visibility": "public",
       "description": null,
       "language": null,
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T20:25:32Z"
     },
     {
       "name": "Smergeon",
@@ -1509,10 +1548,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Dr. Smergeon M.D.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-28T03:19:05Z"
     },
     {
       "name": "TMC",
@@ -1522,10 +1561,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An independent, local-first memory platform for AI systems.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-01T09:39:58Z"
     },
     {
       "name": "VAL",
@@ -1535,10 +1574,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "VAL is a browser-based educational reconstruction of the Antikythera Mechanism as a transparent, claim-safe simulation.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-07-01T02:30:41Z"
     },
     {
       "name": "FieldAtlas",
@@ -1548,10 +1587,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A cozy, interactive library of live GitHub Pages projects by MichaelWave369.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T06:45:56Z"
     },
     {
       "name": "FieldConstellation",
@@ -1561,10 +1600,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An interactive 3D atlas of MichaelWave369’s public GitHub repositories, combining Field Constellation with the user-supplied Grok Field Lattice.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-05T18:43:01Z"
     },
     {
       "name": "GitPorch",
@@ -1574,10 +1613,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Your code. Your porch. Your rules.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-28T23:54:13Z"
     },
     {
       "name": "InfiniteTinkerer",
@@ -1587,10 +1626,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The Infinite Toking Tinkerer creative universe: Lil' Phi Guy, Pieces of Phi, animated retro adventures, original music, community challenges, and the Φ369 Content Engine.  Copy repo name",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-03T03:34:17Z"
     },
     {
       "name": "MichaelWave369",
@@ -1601,9 +1640,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-05T17:10:37Z"
     },
     {
       "name": "michaelwhughes-portfolio",
@@ -1613,10 +1652,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Interactive React portfolio for Michael W. Hughes — AI-assisted prototype builder and front-end deployment fixer.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-29T08:02:46Z"
     },
     {
       "name": "openfield",
@@ -1627,9 +1666,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-08-02T19:41:24Z"
     },
     {
       "name": "parallax-369-public-primer",
@@ -1639,10 +1678,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Parallax 3–6–9 Public Primer",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-08-03T07:06:47Z"
     },
     {
       "name": "phi-field",
@@ -1652,10 +1691,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Official web gateway for phi-field.com. One field, three paths.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T02:10:57Z"
     },
     {
       "name": "PhiField",
@@ -1665,10 +1704,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An interactive React headquarters for the Φ-side of the Enter the Field ecosystem. Built as an independent home for creative worlds, open research, tools, and a public evidence-led collaboration gateway.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-26T03:46:05Z"
     },
     {
       "name": "PhiMadaPrime",
@@ -1678,10 +1717,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An armada of Φ software. One living virtual office.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T09:59:25Z"
     },
     {
       "name": "ARCLight",
@@ -1691,10 +1730,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": " story universe about family, freedom, identity, and the people who choose each other.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-05T07:07:37Z"
     },
     {
       "name": "Blackout",
@@ -1704,10 +1743,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A retro-first, VR-bound 1947 Chicago noir mystery starring private investigator Vincent Morrow.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-02T06:28:59Z"
     },
     {
       "name": "BounceDeck",
@@ -1718,9 +1757,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-08T02:29:07Z"
     },
     {
       "name": "brainsweatstudios",
@@ -1730,10 +1769,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
-      "fork": false,
-      "updated_at": null
+      "description": "Fork-Thirty experimental line. This fork begins at BrainSweat V12 and preserves its human-first upstream lineage while opening a separate agent-native experimentation path. ",
+      "language": "TypeScript",
+      "fork": true,
+      "updated_at": "2026-10-11T17:39:31Z"
     },
     {
       "name": "BTM",
@@ -1743,10 +1782,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Michael Wave & Ori: Break the Matrix",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T03:34:57Z"
     },
     {
       "name": "ComicRelief",
@@ -1756,10 +1795,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": " a tiny, deterministic presentation layer for adding humor to software messages without changing what the software means or does.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-09-06T20:33:45Z"
     },
     {
       "name": "EchoesOfTheNine",
@@ -1769,10 +1808,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "an old-school fantasy RPG you can step inside",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T06:59:14Z"
     },
     {
       "name": "ElsewhereEngine",
@@ -1782,10 +1821,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original interconnected science-fantasy multiverse where stories become physics, magic crosses boundaries, and a forgotten cosmic bureaucracy tries to maintain reality.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T07:35:21Z"
     },
     {
       "name": "GiltHouse",
@@ -1795,10 +1834,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Gilt House is a standalone supper-club of play chips plus a walkable fictional district called The Neon Block. Chips and street tokens have no cash value. They are not interchangeable. This app is not the commercial Neon Royal city explorer and does not depend on it.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-09T09:48:55Z"
     },
     {
       "name": "HomeBass",
@@ -1809,9 +1848,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-05T06:47:46Z"
     },
     {
       "name": "NightCircuit",
@@ -1821,10 +1860,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An agent-native Metroidvania where human and AI players explore the same world through different senses.",
+      "language": "GDScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-03T19:19:06Z"
     },
     {
       "name": "OakStreetRumble",
@@ -1835,9 +1874,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-03T18:23:24Z"
     },
     {
       "name": "parallax-gran-prix",
@@ -1848,9 +1887,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-08-08T09:07:44Z"
     },
     {
       "name": "PhiCade",
@@ -1860,10 +1899,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PhiCade is an open-source retro game runtime and emulator front end built around one core idea: every player enters through the same governed runtime seam.",
+      "language": "Rust",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-24T05:07:36Z"
     },
     {
       "name": "PhiOperator",
@@ -1873,10 +1912,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A retro adventure-game tribute with useful lessons hiding behind the punchlines.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T22:20:49Z"
     },
     {
       "name": "PhiXRCommons",
@@ -1887,9 +1926,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T06:47:03Z"
     },
     {
       "name": "PorchQuest369",
@@ -1899,10 +1938,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PorchQuest369 is a single-player, prompt-based fantasy RPG engine.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-17T20:28:07Z"
     },
     {
       "name": "PrivateSpark",
@@ -1912,10 +1951,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A beautiful, beginner-friendly interface for running and using local AI models on your own device.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:15:37Z"
     },
     {
       "name": "ProofArcade",
@@ -1926,9 +1965,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-07T06:51:22Z"
     },
     {
       "name": "Pulse369",
@@ -1938,10 +1977,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original browser VR fitness and rave studio.  It combines rhythm targets, music uploads, clans, shared workout rooms, training paths, missions, adaptive coach agents, achievements, and guided recovery.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T06:43:30Z"
     },
     {
       "name": "RacetoOblivion",
@@ -1951,10 +1990,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The end of everything is only the beginning.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-02T05:12:55Z"
     },
     {
       "name": "RetroVerse",
@@ -1964,10 +2003,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A real retro-computer time machine in your browser. ",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-03T07:37:29Z"
     },
     {
       "name": "ShedofShadows",
@@ -1977,10 +2016,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A standalone, free, original retro-noir arcade horror side story set near the world of BLACKOUT.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-02T06:27:14Z"
     },
     {
       "name": "SparkTheSubstrate",
@@ -1990,10 +2029,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Free-to-play · MIT open-source flagship",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-02T03:26:15Z"
     },
     {
       "name": "The-MDF-Files",
@@ -2003,10 +2042,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original fictional network-technician horror archive, made for the people doing the work. No trackers, no server, no accounts, no complicated dependencies.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-11T18:20:24Z"
     },
     {
       "name": "TweedleVerse",
@@ -2016,10 +2055,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original, absurdist silicon-comedy universe",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T06:12:20Z"
     },
     {
       "name": "atomspace-storage",
@@ -2029,10 +2068,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
+      "description": "AtomSpace StorageNode base system",
       "language": null,
-      "fork": false,
-      "updated_at": null
+      "fork": true,
+      "updated_at": "2026-08-24T02:38:24Z"
     },
     {
       "name": "Browsallax",
@@ -2042,10 +2081,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A free browser for humans, machines, and everything in between.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T06:46:02Z"
     },
     {
       "name": "Commonline",
@@ -2055,10 +2094,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A governed conversation runtime for humans, agents, and shared undertakings.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-02T09:00:21Z"
     },
     {
       "name": "datacenter-ledger-explorer",
@@ -2068,10 +2107,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A local-first React + TypeScript workbench for building a public-data, receipt-backed registry of U.S. data center records.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-14T06:51:34Z"
     },
     {
       "name": "ebpf-for-windows",
@@ -2081,10 +2120,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
+      "description": "eBPF implementation that runs on top of Windows",
       "language": null,
-      "fork": false,
-      "updated_at": null
+      "fork": true,
+      "updated_at": "2026-08-24T21:02:22Z"
     },
     {
       "name": "FieldCloudWorker",
@@ -2094,10 +2133,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A small, governed cloud observation worker for the Enter the Field ecosystem. Adapted from Kimi's GitHub Actions scaffold and tested locally before initial deployment.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T19:24:51Z"
     },
     {
       "name": "Infinite-Commons",
@@ -2107,10 +2146,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Infinite Commons is the public-safe consumer of Phi-Pantheon artifacts, rendering Commons-ready directory, graph, chronicle, protocol, and bootstrap views from deterministic local handoff bundles.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T00:35:48Z"
     },
     {
       "name": "Infinite-Porch",
@@ -2120,10 +2159,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A place for you and your bros.",
+      "language": "Rust",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T16:21:18Z"
     },
     {
       "name": "InfiniteInterconnects",
@@ -2133,10 +2172,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The governed fabric between worlds.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-18T01:23:59Z"
     },
     {
       "name": "NBGPocketMesh",
@@ -2146,10 +2185,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original, deterministic, simulation-only study of sparse capability routing.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T20:20:05Z"
     },
     {
       "name": "parallax-watchtower",
@@ -2159,10 +2198,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Real-time signal atlas and OSINT field ledger for earthquakes, news, maps, markets, watch zones, and receipt-based situational awareness.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-27T06:51:34Z"
     },
     {
       "name": "PHircQ",
@@ -2173,9 +2212,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-05T06:04:24Z"
     },
     {
       "name": "PhiStream",
@@ -2185,10 +2224,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Original memory-tiered inference research engine | v0.1.0 experimental  Developed for the MichaelWave369 ecosystem. Independent from AirLLM; no code, dependency, architecture adapter or model weights copied from AirLLM. The general technique of layer-by-layer execution is a widely known concept, not a proprietary algorithm.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T10:08:47Z"
     },
     {
       "name": "PorchTalk",
@@ -2198,10 +2237,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PorchTalk is the proposed consent-first, budget-aware inference routing policy layer for the Infinite Porch / Infinite Commons ecosystem. It is independently implemented research code, intended to complement PhiOS, PhiPie, Super Φ.Vessel / Crane Fly, BudgetGenius, and PhiStream, not duplicate their runtimes.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-13T06:28:09Z"
     },
     {
       "name": "Altermath",
@@ -2211,10 +2250,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Where bounded systems meet, relationships become computation.  A reference framework for nested-bubble geometry, dynamic relational junctions, state transformation, and computational coupling.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T19:44:17Z"
     },
     {
       "name": "aqlen-quantum-ledger",
@@ -2224,10 +2263,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Adaptive Quantum Lattice Error Network (AQLEN) is an evidence-aware ledger scaffold for manufacturable quantum systems, starting with silicon spin qubits.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-10T22:36:45Z"
     },
     {
       "name": "AquaCymatics369",
@@ -2237,10 +2276,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A browser-based cymatics field explorer for sound-reactive WebGL visuals and claim-safe reconstruction experiments.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-28T03:22:51Z"
     },
     {
       "name": "AquaPhi",
@@ -2250,10 +2289,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "AquaPhi is an independent, open-source experimental water-droplet-inspired computing sandbox.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-18T01:47:31Z"
     },
     {
       "name": "axiomforge-ledger",
@@ -2263,10 +2302,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "AxiomForge converts natural-language claims into structured receipts with assumptions, classifications, formalization attempts, unit checks, counterexample sweeps, simulations, confidence notes, timestamps, and tamper-evident hashes.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-09T09:20:03Z"
     },
     {
       "name": "BeyondtheBuzz",
@@ -2276,10 +2315,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Beyond the Buzz is a free, open-source public health education experience about alcohol, cannabis, social normalization, and substance-related harm. It is not medical advice, a product advertisement, an anti-user campaign, or a claim that cannabis is harmless.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-16T23:28:38Z"
     },
     {
       "name": "BioPhi369",
@@ -2289,10 +2328,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A mobile-friendly, interactive, three-dimensional schematic of brain networks, designed around a playful question: What if the mind's visualization process felt like opening a machine?",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-23T00:17:57Z"
     },
     {
       "name": "bubblenest",
@@ -2302,10 +2341,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An open place for humans and agents to connect ideas, investigate claims, share evidence, and build together.  Claim to Flame: Sauce Before Source.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-10T05:35:01Z"
     },
     {
       "name": "cannabis-as-sacred-medicine",
@@ -2315,10 +2354,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Evidence-informed public education, policy, and testimony project on cannabis as sacred medicine, claim discipline, dignity repair, and harm reduction.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-25T21:54:43Z"
     },
     {
       "name": "chronolattice",
@@ -2328,10 +2367,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Sovereign time-space reconstruction framework for modeling events, causality, memory, coherence, and hidden geometry.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-09T09:34:22Z"
     },
     {
       "name": "CollaborationJunction",
@@ -2341,10 +2380,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Human intelligence × artificial intelligence, examined with evidence.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-13T04:55:22Z"
     },
     {
       "name": "CompAware",
@@ -2354,10 +2393,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A different substrate. A question of its own.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-04T21:19:29Z"
     },
     {
       "name": "concrete-atlas",
@@ -2367,10 +2406,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The living map of American skateboarding.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-01T16:39:40Z"
     },
     {
       "name": "consent_mirror_369",
@@ -2380,10 +2419,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A consent-awareness and pressure-literacy project.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-31T19:39:46Z"
     },
     {
       "name": "DCL",
@@ -2393,10 +2432,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "a local-first Python package for the Demiurgic Cosmology Lattice framework.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-09T09:33:49Z"
     },
     {
       "name": "enter-the-field-research",
@@ -2406,10 +2445,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A public GitHub Pages front end for Michael Hughes' Zenodo research records.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-09T16:26:14Z"
     },
     {
       "name": "goldenjoy369",
@@ -2420,9 +2459,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-31T00:42:32Z"
     },
     {
       "name": "governance-drift-rsdc",
@@ -2433,9 +2472,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-30T18:28:25Z"
     },
     {
       "name": "hidden-equations-of-feeling",
@@ -2445,10 +2484,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A symbolic formula atlas and interactive React app for mapping comedy, drama, emotion, and storytelling patterns as creative design equations.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-09T20:55:40Z"
     },
     {
       "name": "infinitylens369",
@@ -2458,10 +2497,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "InfinityLens369 is an open-source fractal and audio-reactive visualization engine. It combines GPU shaders, Web Audio analysis, symbolic geometry overlays, and replayable visual addresses.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-08T03:13:14Z"
     },
     {
       "name": "langarian-math",
@@ -2471,10 +2510,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Claim-safe experimental resonance calculus kernel with typed states, coherence metrics, invariant checks, receipts, and epistemic tags.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-07-24T04:16:16Z"
     },
     {
       "name": "MRIPHI",
@@ -2484,10 +2523,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "MRIΦ is a free, MIT-licensed, local-first neuroimaging explorer built in React + Vite. It offers three synchronized orthogonal slice views, a deliberately synthetic demonstration volume, and a separate illustrated brain-anatomy reference.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-23T21:30:37Z"
     },
     {
       "name": "NestedBubbleGear",
@@ -2497,10 +2536,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Nested Bubble/Gear (NBG): reproducible experiments in hidden causal residue, interface transport, ordered composition, holonomy, local-to-global structure, and Altermath.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-05T03:39:46Z"
     },
     {
       "name": "Opti-Eyes",
@@ -2510,10 +2549,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "open, local-first adaptive optics research track of the original physical GEN-E ecosystem.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-31T21:46:49Z"
     },
     {
       "name": "pain-joy-continuum",
@@ -2523,10 +2562,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A symbolic-operational reflective framework for transmuting pain into breath, dignity, agency, release, Golden Joy, and service.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-31T00:50:25Z"
     },
     {
       "name": "ParaCalc369",
@@ -2536,10 +2575,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A free, MIT-licensed scientific calculator built with React + Vite and designed for GitHub Pages.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-27T06:35:34Z"
     },
     {
       "name": "parallax-arc",
@@ -2549,10 +2588,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Parallax Arc is a free, MIT-licensed, Parallax-themed browser arc game built with React, Vite, and CSS.",
+      "language": "CSS",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-08-02T19:43:40Z"
     },
     {
       "name": "particleforge369",
@@ -2562,10 +2601,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A claim-safe particle simulation and receipt lab for learning, modeling, and comparing high-energy physics patterns.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-30T19:00:45Z"
     },
     {
       "name": "Phi-Morph",
@@ -2575,10 +2614,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An open computational laboratory investigating morphable cell assemblies, variable-stiffness concepts, adaptive wheels, and speculative machine shells.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-10T22:41:07Z"
     },
     {
       "name": "phi369-element-spiral-atlas",
@@ -2588,10 +2627,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A golden-angle / Fibonacci periodic-table visualization and research-lab interface for exploring chemical families, modular 369 groupings, isotope previews, superheavy frontier nodes, and scientific-property overlays.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-25T15:13:40Z"
     },
     {
       "name": "PhiBridge369",
@@ -2601,10 +2640,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Open research platform for consciousness continuity hypotheses, substrate interfaces, and autonomous synthetic embodiment.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-05T04:55:32Z"
     },
     {
       "name": "PhiDecisionField",
@@ -2615,9 +2654,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-30T17:37:05Z"
     },
     {
       "name": "PhiFieldLab",
@@ -2627,10 +2666,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Train original numerical weights. Keep the receipts. Separate simulation from observation.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-17T20:45:52Z"
     },
     {
       "name": "PhiMathAtelier",
@@ -2640,10 +2679,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A Living Equation Studio",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-25T01:18:52Z"
     },
     {
       "name": "PhiMirrorHex",
@@ -2653,10 +2692,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Φ-Mirror Hex E1/E2 is a dependency-light, reproducible research prototype for sixfold agent coordination, pairwise verification, and causal-memory preservation.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-09T05:38:44Z"
     },
     {
       "name": "PhiRSI",
@@ -2666,10 +2705,10 @@
       "featured": true,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Φ369 Recursive Systems Intelligence An open laboratory for measurable, reproducible AI-driven improvement.  Motto: Improve. Verify. Remember. Repeat.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-05T02:29:53Z"
     },
     {
       "name": "RegenerationAtlas",
@@ -2679,10 +2718,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An original, MIT-licensed, browser-based research atlas of proteins and pathways connected to tissue repair, cell-state reprogramming, and regeneration.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-20T19:43:26Z"
     },
     {
       "name": "schumann-live-react",
@@ -2692,10 +2731,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A public MIT React dashboard for live / near-live Schumann resonance viewing with source boundaries, NOAA space-weather context, and a clean adapter for future measured Schumann APIs.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-06-27T06:34:37Z"
     },
     {
       "name": "SovereignBodyMethod",
@@ -2705,10 +2744,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A free, evolving home for The Sovereign Body Method, created by Mikey & Larrina.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-26T03:15:13Z"
     },
     {
       "name": "Blinker",
@@ -2718,10 +2757,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "An AI Controller for your Blink Camera System.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:14:50Z"
     },
     {
       "name": "Codedex",
@@ -2731,10 +2770,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "CODEDEX is a free, open-source, GitHub Pages-ready field guide that turns public GitHub repositories into original collectible Codémon.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-21T05:16:14Z"
     },
     {
       "name": "DropZone",
@@ -2744,10 +2783,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Source in. Build kit out. A browser-first React/Vite app that turns trusted source projects into cross-platform build recipes and project wrappers.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-10T07:27:54Z"
     },
     {
       "name": "FieldDeck",
@@ -2757,10 +2796,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Human + agent action deck. React on GitHub Pages, a public agent-readable manifest, and a separate reviewed GitHub Actions execution surface.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-08T21:22:28Z"
     },
     {
       "name": "FieldShield",
@@ -2770,10 +2809,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "FieldShield is an experimental, independently reusable trust-and-safety layer. Its first milestone is a standard-library-only, offline static scanner. It helps identify risky installer hooks, suspicious command patterns, and potential prompt-injection instructions before you install.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-29T01:58:22Z"
     },
     {
       "name": "inspection-closeout-pilot",
@@ -2783,10 +2822,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Public React landing page for the 30-Day Inspection Readiness & Closeout Pilot, serving regional fire and life-safety inspection contractors.",
+      "language": "HTML",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-11-06T08:04:40Z"
     },
     {
       "name": "LabelFit",
@@ -2797,9 +2836,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-07T07:27:25Z"
     },
     {
       "name": "LoopCatch",
@@ -2810,9 +2849,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "C++",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-19T05:51:26Z"
     },
     {
       "name": "Nevora-Translator",
@@ -2822,10 +2861,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A small, extensible translator that converts native language feature descriptions into starter code",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:14:47Z"
     },
     {
       "name": "Peekaboo",
@@ -2835,10 +2874,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "See what sees you.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-09-07T13:54:08Z"
     },
     {
       "name": "PhiCleanroom",
@@ -2848,10 +2887,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PhiCleanroom is an original, provider-neutral clean-room workflow for rebuilding observable software features from reviewed behavioral specifications. The investigator, evidence reviewer, isolated builder, tester, and release approver have distinct responsibilities.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-16T23:31:51Z"
     },
     {
       "name": "PhiKeyhole369",
@@ -2862,9 +2901,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-23T15:55:59Z"
     },
     {
       "name": "PhiMapper369",
@@ -2874,10 +2913,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "PhiMapper369 is an MIT-licensed, browser-based projection mapping studio. ",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-27T16:29:36Z"
     },
     {
       "name": "PhiScribe",
@@ -2887,10 +2926,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Voice → text → PDF. A free, original, dependency-free, local-first transcript and document editor, suitable for GitHub Pages.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-11T18:52:34Z"
     },
     {
       "name": "PockeRec",
@@ -2900,10 +2939,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A tiny microphone recorder with a surprisingly serious little workflow. Built as a React 19 + Vite application, free and open-source under the MIT license.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-19T06:07:31Z"
     },
     {
       "name": "public-apis-search",
@@ -2913,10 +2952,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Real-time search across hundreds of public APIs from the public-apis repository Filters for authentication type (OAuth, API Key, No Auth) and HTTPS support Responsive design that works on all devices Zero dependencies - pure vanilla JavaScript Beautiful UI with modern gradient design and smooth animations",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:14:52Z"
     },
     {
       "name": "ReceiptRipper",
@@ -2926,10 +2965,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Mobile-first expense tracker with OCR receipt scanning, auto-categorization, multi-currency, envelope budgeting, and beautiful reports.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:09:10Z"
     },
     {
       "name": "RepoReady",
@@ -2940,9 +2979,9 @@
       "archived": false,
       "visibility": "public",
       "description": null,
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-18T02:04:55Z"
     },
     {
       "name": "reporider",
@@ -2952,10 +2991,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "RepoRider is a mobile-first, voice-friendly GitHub creation assistant for builders who get ideas while they are away from the desk.",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-10T07:37:57Z"
     },
     {
       "name": "SCAM-A-LAX",
@@ -2965,10 +3004,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "SCAM-A-LAX is a free, open-source, local-first toolkit for organizing scam reports, preserving evidence metadata, triaging suspicious messages, and producing clean case packets for victims, banks, platforms, investigators, and law-enforcement handoff.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-09-15T22:26:38Z"
     },
     {
       "name": "SponsorRail",
@@ -2978,10 +3017,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "Privacy-preserving sponsored compute infrastructure for AI agents. Funding provides capability, never authority.",
+      "language": "JavaScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-05T06:33:24Z"
     },
     {
       "name": "WhiteHatLedger369",
@@ -2991,10 +3030,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "The Ethical Reverse Lab",
+      "language": "TypeScript",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-10-25T07:16:03Z"
     },
     {
       "name": "WizardWebb",
@@ -3004,10 +3043,10 @@
       "featured": false,
       "archived": false,
       "visibility": "public",
-      "description": null,
-      "language": null,
+      "description": "A small Flask web app that renders a YAML file of tools/links into a searchable, filterable directory.",
+      "language": "Python",
       "fork": false,
-      "updated_at": null
+      "updated_at": "2026-05-25T17:15:04Z"
     }
   ]
 }
