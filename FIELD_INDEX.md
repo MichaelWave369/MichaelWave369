@@ -3,9 +3,9 @@
 > **A map of the public MichaelWave369 ecosystem.**  
 > Generated from public GitHub repositories only. Private repositories are intentionally omitted.
 
-**230 public repositories indexed** · Snapshot: 2026-11-05
+**255 public repositories indexed** · Snapshot: 2026-11-14
 
-The [profile](./README.md) is the front door; this index is the full public map. Explore the visual [Field Constellation](https://michaelwave369.github.io/FieldConstellation/) or inspect the [PhiMadaPrime](https://github.com/MichaelWave369/PhiMadaPrime) command tower.
+This is the deeper navigation layer behind the [MichaelWave369 profile](./README.md). The profile is the front door; this file is the map.
 
 ## Start here
 
@@ -23,30 +23,14 @@ The [profile](./README.md) is the front door; this index is the full public map.
 
 ## How to read this index
 
-- **FEATURED** — curated entry point, not certification.
-- **ACTIVE** — listed public project; not a release or security certification.
-- **EXPERIMENTAL** — exploratory or awaiting confident classification.
-- **REFERENCE** — archive/reference surface rather than primary active work.
+- **FEATURED** — a strong current entry point into the ecosystem.
+- **ACTIVE** — listed public project; not a deployment, security, or release certification.
+- **EXPERIMENTAL** — exploratory or not yet confidently classified.
+- **REFERENCE** — archive/reference surface rather than a primary active system.
 
 Repository visibility on GitHub is the source boundary for this index. **Private repos are never emitted into the public catalog.**
 
 ---
-
-## Field Navigation & Meta · 11
-
-| Repository | Status |
-|---|---|
-| [FieldAtlas](https://github.com/MichaelWave369/FieldAtlas) | `ACTIVE` |
-| [FieldConstellation](https://github.com/MichaelWave369/FieldConstellation) | `FEATURED` |
-| [GitPorch](https://github.com/MichaelWave369/GitPorch) | `ACTIVE` |
-| [InfiniteTinkerer](https://github.com/MichaelWave369/InfiniteTinkerer) | `ACTIVE` |
-| [MichaelWave369](https://github.com/MichaelWave369/MichaelWave369) | `ACTIVE` |
-| [michaelwhughes-portfolio](https://github.com/MichaelWave369/michaelwhughes-portfolio) | `ACTIVE` |
-| [openfield](https://github.com/MichaelWave369/openfield) | `ACTIVE` |
-| [parallax-369-public-primer](https://github.com/MichaelWave369/parallax-369-public-primer) | `ACTIVE` |
-| [phi-field](https://github.com/MichaelWave369/phi-field) | `ACTIVE` |
-| [PhiField](https://github.com/MichaelWave369/PhiField) | `ACTIVE` |
-| [PhiMadaPrime](https://github.com/MichaelWave369/PhiMadaPrime) | `FEATURED` |
 
 ## Core Systems · 27
 
@@ -292,36 +276,77 @@ Repository visibility on GitHub is the source boundary for this index. **Private
 | [WhiteHatLedger369](https://github.com/MichaelWave369/WhiteHatLedger369) | `ACTIVE` |
 | [WizardWebb](https://github.com/MichaelWave369/WizardWebb) | `ACTIVE` |
 
+## Field Navigation & Meta · 11
+
+| Repository | Status |
+|---|---|
+| [FieldAtlas](https://github.com/MichaelWave369/FieldAtlas) | `ACTIVE` |
+| [FieldConstellation](https://github.com/MichaelWave369/FieldConstellation) | `FEATURED` |
+| [GitPorch](https://github.com/MichaelWave369/GitPorch) | `ACTIVE` |
+| [InfiniteTinkerer](https://github.com/MichaelWave369/InfiniteTinkerer) | `ACTIVE` |
+| [MichaelWave369](https://github.com/MichaelWave369/MichaelWave369) | `ACTIVE` |
+| [michaelwhughes-portfolio](https://github.com/MichaelWave369/michaelwhughes-portfolio) | `ACTIVE` |
+| [openfield](https://github.com/MichaelWave369/openfield) | `ACTIVE` |
+| [parallax-369-public-primer](https://github.com/MichaelWave369/parallax-369-public-primer) | `ACTIVE` |
+| [phi-field](https://github.com/MichaelWave369/phi-field) | `ACTIVE` |
+| [PhiField](https://github.com/MichaelWave369/PhiField) | `ACTIVE` |
+| [PhiMadaPrime](https://github.com/MichaelWave369/PhiMadaPrime) | `FEATURED` |
+
 ## Archive & Reference · 1
 
 | Repository | Status |
 |---|---|
 | [ravedial-archive-explorer](https://github.com/MichaelWave369/ravedial-archive-explorer) | `REFERENCE` |
 
-## Experimental / Unclassified · 14
+## Experimental / Unclassified · 39
 
 | Repository | Status |
 |---|---|
 | [12fold](https://github.com/MichaelWave369/12fold) | `EXPERIMENTAL` |
+| [369HLJAtlas](https://github.com/MichaelWave369/369HLJAtlas) | `EXPERIMENTAL` |
+| [AlmanacPhi](https://github.com/MichaelWave369/AlmanacPhi) | `EXPERIMENTAL` |
 | [atomspace-rocks](https://github.com/MichaelWave369/atomspace-rocks) | `EXPERIMENTAL` |
+| [CANOPY](https://github.com/MichaelWave369/CANOPY) | `EXPERIMENTAL` |
 | [CFD](https://github.com/MichaelWave369/CFD) | `EXPERIMENTAL` |
+| [CodeBound](https://github.com/MichaelWave369/CodeBound) | `EXPERIMENTAL` |
 | [Codex](https://github.com/MichaelWave369/Codex) | `EXPERIMENTAL` |
 | [GBRM](https://github.com/MichaelWave369/GBRM) | `EXPERIMENTAL` |
+| [GMED](https://github.com/MichaelWave369/GMED) | `EXPERIMENTAL` |
 | [LAU](https://github.com/MichaelWave369/LAU) | `EXPERIMENTAL` |
 | [LENZ](https://github.com/MichaelWave369/LENZ) | `EXPERIMENTAL` |
 | [LightBridge](https://github.com/MichaelWave369/LightBridge) | `EXPERIMENTAL` |
+| [MasterKeySystem](https://github.com/MichaelWave369/MasterKeySystem) | `EXPERIMENTAL` |
+| [OAA369](https://github.com/MichaelWave369/OAA369) | `EXPERIMENTAL` |
+| [PatternAtlas](https://github.com/MichaelWave369/PatternAtlas) | `EXPERIMENTAL` |
 | [Phi5](https://github.com/MichaelWave369/Phi5) | `EXPERIMENTAL` |
 | [PhiARK](https://github.com/MichaelWave369/PhiARK) | `EXPERIMENTAL` |
 | [Phiax](https://github.com/MichaelWave369/Phiax) | `EXPERIMENTAL` |
+| [PhiBall369](https://github.com/MichaelWave369/PhiBall369) | `EXPERIMENTAL` |
+| [PhiCloud](https://github.com/MichaelWave369/PhiCloud) | `EXPERIMENTAL` |
+| [PhiDiscovery](https://github.com/MichaelWave369/PhiDiscovery) | `EXPERIMENTAL` |
+| [PhiFractalCity](https://github.com/MichaelWave369/PhiFractalCity) | `EXPERIMENTAL` |
+| [PhiGuardian](https://github.com/MichaelWave369/PhiGuardian) | `EXPERIMENTAL` |
+| [PhiID](https://github.com/MichaelWave369/PhiID) | `EXPERIMENTAL` |
+| [PhiMail](https://github.com/MichaelWave369/PhiMail) | `EXPERIMENTAL` |
+| [PhiMemory9](https://github.com/MichaelWave369/PhiMemory9) | `EXPERIMENTAL` |
+| [PhiNeuBio](https://github.com/MichaelWave369/PhiNeuBio) | `EXPERIMENTAL` |
+| [PhiPonder](https://github.com/MichaelWave369/PhiPonder) | `EXPERIMENTAL` |
+| [PhiRepoNerve](https://github.com/MichaelWave369/PhiRepoNerve) | `EXPERIMENTAL` |
+| [PhiShieldNetwork](https://github.com/MichaelWave369/PhiShieldNetwork) | `EXPERIMENTAL` |
+| [PhiSpectrumForge369](https://github.com/MichaelWave369/PhiSpectrumForge369) | `EXPERIMENTAL` |
+| [PhiWorldForge](https://github.com/MichaelWave369/PhiWorldForge) | `EXPERIMENTAL` |
+| [PoWE](https://github.com/MichaelWave369/PoWE) | `EXPERIMENTAL` |
 | [Smergeon](https://github.com/MichaelWave369/Smergeon) | `EXPERIMENTAL` |
+| [TheOpenField](https://github.com/MichaelWave369/TheOpenField) | `EXPERIMENTAL` |
 | [TMC](https://github.com/MichaelWave369/TMC) | `EXPERIMENTAL` |
+| [ULGE](https://github.com/MichaelWave369/ULGE) | `EXPERIMENTAL` |
 | [VAL](https://github.com/MichaelWave369/VAL) | `EXPERIMENTAL` |
 
 ---
 
 ## Field principle
 
-> **The public index explains the Field. Private operator surfaces operate it.**
+> **The public index explains the Field. The private operator surfaces operate it.**
 
 That boundary is intentional.
 
